@@ -1,0 +1,24 @@
+fcitx 使用的 script 从 run_im 启动。
+init: at-spi2-registryd main 进程结束, 重新产生
+init: at-spi2-registryd main 进程结束, 重新产生
+init: at-spi2-registryd main 进程结束, 重新产生
+init: at-spi2-registryd main 进程结束, 重新产生
+init: at-spi2-registryd main 进程结束, 重新产生
+init: at-spi2-registryd main 进程结束, 重新产生
+init: at-spi2-registryd main 进程结束, 重新产生
+init: at-spi2-registryd main 进程结束, 重新产生
+init: at-spi2-registryd main 进程结束, 重新产生
+init: at-spi2-registryd main 进程结束, 重新产生
+init: at-spi2-registryd 重新建立过快，停止
+init: unity-settings-daemon main 进程结束, 重新产生
+init: hud main 进程 (1834)以状态 1 结束
+init: gnome-session (Unity) main 进程 (1838)以状态 1 结束
+init: unity-panel-service main 进程 (1852)以状态 1 结束
+init: indicator-printers main 进程 (1963)以状态 1 结束
+init: unity-settings-daemon main 进程 (2762)以状态 1 结束
+init: indicator-bluetooth main 进程 (1950)已经被TERM 信号杀死
+init: indicator-power main 进程 (1952)已经被TERM 信号杀死
+init: indicator-datetime main 进程 (1955)已经被TERM 信号杀死
+init: indicator-session main 进程 (1965)已经被TERM 信号杀死
+init: indicator-application main 进程 (1980)已经被TERM 信号杀死
+init: 从告知的D-Bus总线断开

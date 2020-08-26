@@ -1,0 +1,83 @@
+[2019-12-09 15:11:40.539] [sharedprocess] [info] main {"machineId":"f93d9e66b9a915be4ac6bfcbb74bd2739cc4038d412f4efce8f858cd034803f7","windowId":2}
+[2019-12-09 15:12:20.362] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-12-09 15:12:50.723] [sharedprocess] [info] Installing extension: ms-vscode.cpptools
+[2019-12-09 15:12:52.898] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools /tmp/ead063ed-46e2-47f5-9218-635ab2688d6c
+[2019-12-09 15:13:02.130] [sharedprocess] [info] Installing extension: hars.cppsnippets
+[2019-12-09 15:13:03.089] [sharedprocess] [info] Downloaded extension: hars.cppsnippets /tmp/168b11f8-e7ab-49f8-8a54-d60d0f02d634
+[2019-12-09 15:13:05.091] [sharedprocess] [info] Extracted extension to /home/hhb/.vscode/extensions/.hars.cppsnippets-0.0.14: hars.cppsnippets
+[2019-12-09 15:13:05.113] [sharedprocess] [info] Renamed to /home/hhb/.vscode/extensions/hars.cppsnippets-0.0.14
+[2019-12-09 15:13:05.195] [sharedprocess] [info] Installation completed. hars.cppsnippets
+[2019-12-09 15:13:05.484] [sharedprocess] [info] Extensions installed successfully: hars.cppsnippets
+[2019-12-09 15:13:12.513] [sharedprocess] [info] Installing extension: jbenden.c-cpp-flylint
+[2019-12-09 15:13:15.186] [sharedprocess] [info] Downloaded extension: jbenden.c-cpp-flylint /tmp/6e3836e6-f975-4aae-8a23-5d9e03630626
+[2019-12-09 15:13:37.076] [sharedprocess] [info] Extracted extension to /home/hhb/.vscode/extensions/.ms-vscode.cpptools-0.26.2: ms-vscode.cpptools
+[2019-12-09 15:13:37.081] [sharedprocess] [info] Renamed to /home/hhb/.vscode/extensions/ms-vscode.cpptools-0.26.2
+[2019-12-09 15:13:37.173] [sharedprocess] [info] Installation completed. ms-vscode.cpptools
+[2019-12-09 15:13:37.234] [sharedprocess] [info] Extensions installed successfully: ms-vscode.cpptools
+[2019-12-09 15:13:37.749] [sharedprocess] [info] Installing extension: formulahendry.code-runner
+[2019-12-09 15:13:39.350] [sharedprocess] [info] Downloaded extension: formulahendry.code-runner /tmp/9ad568d4-62ae-4fb6-8011-3b6417982851
+[2019-12-09 15:13:50.921] [sharedprocess] [info] Extracted extension to /home/hhb/.vscode/extensions/.formulahendry.code-runner-0.9.15: formulahendry.code-runner
+[2019-12-09 15:13:50.928] [sharedprocess] [info] Renamed to /home/hhb/.vscode/extensions/formulahendry.code-runner-0.9.15
+[2019-12-09 15:13:50.967] [sharedprocess] [info] Installation completed. formulahendry.code-runner
+[2019-12-09 15:13:50.998] [sharedprocess] [info] Extensions installed successfully: formulahendry.code-runner
+[2019-12-09 15:14:04.404] [sharedprocess] [info] Installing extension: ajshort.include-autocomplete
+[2019-12-09 15:14:05.194] [sharedprocess] [info] Downloaded extension: ajshort.include-autocomplete /tmp/655f026f-566a-47ca-b363-8b0d0b1bb2d1
+[2019-12-09 15:14:05.866] [sharedprocess] [info] Extracted extension to /home/hhb/.vscode/extensions/.ajshort.include-autocomplete-0.0.4: ajshort.include-autocomplete
+[2019-12-09 15:14:05.874] [sharedprocess] [info] Renamed to /home/hhb/.vscode/extensions/ajshort.include-autocomplete-0.0.4
+[2019-12-09 15:14:05.936] [sharedprocess] [info] Installation completed. ajshort.include-autocomplete
+[2019-12-09 15:14:06.052] [sharedprocess] [info] Extensions installed successfully: ajshort.include-autocomplete
+[2019-12-09 15:14:30.012] [sharedprocess] [info] Installing extension: 2gua.rainbow-brackets
+[2019-12-09 15:14:31.292] [sharedprocess] [info] Downloaded extension: 2gua.rainbow-brackets /tmp/d550365a-ecbc-4f57-98c9-ec86170be58a
+[2019-12-09 15:14:31.634] [sharedprocess] [info] Extracted extension to /home/hhb/.vscode/extensions/.2gua.rainbow-brackets-0.0.6: 2gua.rainbow-brackets
+[2019-12-09 15:14:31.640] [sharedprocess] [info] Renamed to /home/hhb/.vscode/extensions/2gua.rainbow-brackets-0.0.6
+[2019-12-09 15:14:31.667] [sharedprocess] [info] Installation completed. 2gua.rainbow-brackets
+[2019-12-09 15:14:31.776] [sharedprocess] [info] Extensions installed successfully: 2gua.rainbow-brackets
+[2019-12-09 15:14:41.336] [sharedprocess] [info] Extracted extension to /home/hhb/.vscode/extensions/.jbenden.c-cpp-flylint-1.2.4: jbenden.c-cpp-flylint
+[2019-12-09 15:14:41.336] [sharedprocess] [info] Renamed to /home/hhb/.vscode/extensions/jbenden.c-cpp-flylint-1.2.4
+[2019-12-09 15:14:41.338] [sharedprocess] [info] Installation completed. jbenden.c-cpp-flylint
+[2019-12-09 15:14:41.370] [sharedprocess] [info] Extensions installed successfully: jbenden.c-cpp-flylint
+[2019-12-09 15:14:51.354] [sharedprocess] [info] Installing extension: zhuangtongfa.material-theme
+[2019-12-09 15:14:52.274] [sharedprocess] [info] Downloaded extension: zhuangtongfa.material-theme /tmp/9928720e-c10d-4874-ab10-7d0a661694ad
+[2019-12-09 15:14:52.989] [sharedprocess] [info] Extracted extension to /home/hhb/.vscode/extensions/.zhuangtongfa.material-theme-2.28.3: zhuangtongfa.material-theme
+[2019-12-09 15:14:52.996] [sharedprocess] [info] Renamed to /home/hhb/.vscode/extensions/zhuangtongfa.material-theme-2.28.3
+[2019-12-09 15:14:53.016] [sharedprocess] [info] Installation completed. zhuangtongfa.material-theme
+[2019-12-09 15:14:53.038] [sharedprocess] [info] Extensions installed successfully: zhuangtongfa.material-theme
+[2019-12-09 15:15:09.737] [sharedprocess] [info] Installing extension: bukas.gbktoutf8
+[2019-12-09 15:15:16.512] [sharedprocess] [info] Downloaded extension: bukas.gbktoutf8 /tmp/ef89802e-66e5-4c94-8d3c-3a160f62abce
+[2019-12-09 15:15:17.175] [sharedprocess] [info] Extracted extension to /home/hhb/.vscode/extensions/.bukas.gbktoutf8-0.0.2: bukas.gbktoutf8
+[2019-12-09 15:15:17.177] [sharedprocess] [info] Renamed to /home/hhb/.vscode/extensions/bukas.gbktoutf8-0.0.2
+[2019-12-09 15:15:17.200] [sharedprocess] [info] Installation completed. bukas.gbktoutf8
+[2019-12-09 15:15:17.218] [sharedprocess] [info] Extensions installed successfully: bukas.gbktoutf8
+[2019-12-09 15:15:22.652] [sharedprocess] [info] Installing extension: dan-c-underwood.arm
+[2019-12-09 15:15:27.285] [sharedprocess] [info] Downloaded extension: dan-c-underwood.arm /tmp/59ebbab1-2425-4166-b184-43deaf57ae08
+[2019-12-09 15:15:27.794] [sharedprocess] [info] Extracted extension to /home/hhb/.vscode/extensions/.dan-c-underwood.arm-0.5.0: dan-c-underwood.arm
+[2019-12-09 15:15:27.798] [sharedprocess] [info] Renamed to /home/hhb/.vscode/extensions/dan-c-underwood.arm-0.5.0
+[2019-12-09 15:15:27.835] [sharedprocess] [info] Installation completed. dan-c-underwood.arm
+[2019-12-09 15:15:27.874] [sharedprocess] [info] Extensions installed successfully: dan-c-underwood.arm
+[2019-12-09 15:15:35.484] [sharedprocess] [info] Installing extension: ms-ceintl.vscode-language-pack-zh-hans
+[2019-12-09 15:15:36.351] [sharedprocess] [info] Downloaded extension: ms-ceintl.vscode-language-pack-zh-hans /tmp/18c32ec9-0da0-4af9-a4c5-ab598caea84d
+[2019-12-09 15:15:38.941] [sharedprocess] [info] Extracted extension to /home/hhb/.vscode/extensions/.ms-ceintl.vscode-language-pack-zh-hans-1.39.3: ms-ceintl.vscode-language-pack-zh-hans
+[2019-12-09 15:15:38.955] [sharedprocess] [info] Renamed to /home/hhb/.vscode/extensions/ms-ceintl.vscode-language-pack-zh-hans-1.39.3
+[2019-12-09 15:15:38.978] [sharedprocess] [info] Installation completed. ms-ceintl.vscode-language-pack-zh-hans
+[2019-12-09 15:15:39.044] [sharedprocess] [info] Extensions installed successfully: ms-ceintl.vscode-language-pack-zh-hans
+[2019-12-09 15:15:46.409] [sharedprocess] [info] Installing extension: vscode-icons-team.vscode-icons
+[2019-12-09 15:15:47.486] [sharedprocess] [info] Downloaded extension: vscode-icons-team.vscode-icons /tmp/d6e61391-ee29-419f-9358-f9a093412b53
+[2019-12-09 15:16:00.140] [sharedprocess] [info] Extracted extension to /home/hhb/.vscode/extensions/.vscode-icons-team.vscode-icons-9.6.0: vscode-icons-team.vscode-icons
+[2019-12-09 15:16:00.140] [sharedprocess] [info] Renamed to /home/hhb/.vscode/extensions/vscode-icons-team.vscode-icons-9.6.0
+[2019-12-09 15:16:00.145] [sharedprocess] [info] Installation completed. vscode-icons-team.vscode-icons
+[2019-12-09 15:16:00.172] [sharedprocess] [info] Extensions installed successfully: vscode-icons-team.vscode-icons
+[2019-12-09 15:16:00.482] [sharedprocess] [info] Installing extension: in4margaret.compareit
+[2019-12-09 15:16:02.356] [sharedprocess] [info] Downloaded extension: in4margaret.compareit /tmp/1be87f43-53d1-436b-9049-be3107cc9227
+[2019-12-09 15:16:06.415] [sharedprocess] [info] Extracted extension to /home/hhb/.vscode/extensions/.in4margaret.compareit-0.0.2: in4margaret.compareit
+[2019-12-09 15:16:06.415] [sharedprocess] [info] Renamed to /home/hhb/.vscode/extensions/in4margaret.compareit-0.0.2
+[2019-12-09 15:16:06.418] [sharedprocess] [info] Installation completed. in4margaret.compareit
+[2019-12-09 15:16:06.431] [sharedprocess] [info] Extensions installed successfully: in4margaret.compareit
+[2019-12-09 15:16:12.597] [sharedprocess] [info] Installing extension: plorefice.devicetree
+[2019-12-09 15:16:13.702] [sharedprocess] [info] Downloaded extension: plorefice.devicetree /tmp/513dac27-5bb4-4635-ba6e-002c3bb8771a
+[2019-12-09 15:16:14.154] [sharedprocess] [info] Extracted extension to /home/hhb/.vscode/extensions/.plorefice.devicetree-0.1.1: plorefice.devicetree
+[2019-12-09 15:16:14.155] [sharedprocess] [info] Renamed to /home/hhb/.vscode/extensions/plorefice.devicetree-0.1.1
+[2019-12-09 15:16:14.160] [sharedprocess] [info] Installation completed. plorefice.devicetree
+[2019-12-09 15:16:14.179] [sharedprocess] [info] Extensions installed successfully: plorefice.devicetree
+[2019-12-09 15:17:05.140] [sharedprocess] [info] main {"machineId":"f93d9e66b9a915be4ac6bfcbb74bd2739cc4038d412f4efce8f858cd034803f7","windowId":2}
+[2019-12-09 15:17:45.046] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-12-09 15:17:45.048] [sharedprocess] [info] Skipping directory 30d0a9efdef99b761ea9557efbc38126.zh-cn. Language pack still in use.

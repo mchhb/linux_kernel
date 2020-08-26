@@ -1,0 +1,6 @@
+
+(indicator-printers-service:2037): Gdk-WARNING **: indicator-printers-service: Fatal IO error 11 (资源暂时不可用) on X server :0.
+
+
+(indicator-printers-service:1963): Gdk-WARNING **: indicator-printers-service: Fatal IO error 11 (资源暂时不可用) on X server :0.
+

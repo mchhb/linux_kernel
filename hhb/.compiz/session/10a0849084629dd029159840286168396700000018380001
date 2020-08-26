@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<compiz_session id="10a0849084629dd029159840286168396700000018380001">
+  <window id="10a0849084629dd029159840300942295800000018380049" title="Mozilla Firefox" class="Firefox" name="Navigator" role="browser" command="firefox">
+    <geometry x="65" y="24" width="1237" height="760"/>
+    <maximized vert="yes" horz="yes"/>
+    <workspace index="0"/>
+  </window>
+</compiz_session>

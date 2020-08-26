@@ -1,0 +1,4 @@
+
+** (process:1950): CRITICAL **: bluez.vala:104: GDBus.Error:org.bluez.Error.NoSuchAdapter: No such adapter
+
+** (process:2128): CRITICAL **: bluez.vala:104: GDBus.Error:org.bluez.Error.NoSuchAdapter: No such adapter

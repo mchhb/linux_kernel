@@ -1,0 +1,1 @@
+cmd_/home/share/imx6ull/driver/7_key/key.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/share/imx6ull/driver/7_key/key.ko /home/share/imx6ull/driver/7_key/key.o /home/share/imx6ull/driver/7_key/key.mod.o

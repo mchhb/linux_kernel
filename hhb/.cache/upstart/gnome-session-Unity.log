@@ -1,0 +1,669 @@
+
+(nm-connection-editor:2867): GLib-GIO-CRITICAL **: g_settings_new_with_path: assertion 'path_is_valid (path)' failed
+
+(nm-connection-editor:2867): GLib-GIO-CRITICAL **: g_settings_get_value: assertion 'G_IS_SETTINGS (settings)' failed
+
+(nm-connection-editor:2867): GLib-CRITICAL **: g_variant_get_type: assertion 'value != NULL' failed
+
+(nm-connection-editor:2867): GLib-CRITICAL **: g_variant_type_is_subtype_of: assertion 'g_variant_type_check (type)' failed
+
+(nm-connection-editor:2867): GLib-CRITICAL **: g_variant_get_boolean: assertion 'g_variant_is_of_type (value, G_VARIANT_TYPE_BOOLEAN)' failed
+
+(nm-connection-editor:2867): GLib-CRITICAL **: g_variant_unref: assertion 'value != NULL' failed
+
+(nm-connection-editor:2867): GLib-GObject-CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(nm-connection-editor:2867): GLib-GIO-CRITICAL **: g_settings_new_with_path: assertion 'path_is_valid (path)' failed
+
+(nm-connection-editor:2867): GLib-GIO-CRITICAL **: g_settings_get_value: assertion 'G_IS_SETTINGS (settings)' failed
+
+(nm-connection-editor:2867): GLib-CRITICAL **: g_variant_get_type: assertion 'value != NULL' failed
+
+(nm-connection-editor:2867): GLib-CRITICAL **: g_variant_type_is_subtype_of: assertion 'g_variant_type_check (type)' failed
+
+(nm-connection-editor:2867): GLib-CRITICAL **: g_variant_get_boolean: assertion 'g_variant_is_of_type (value, G_VARIANT_TYPE_BOOLEAN)' failed
+
+(nm-connection-editor:2867): GLib-CRITICAL **: g_variant_unref: assertion 'value != NULL' failed
+
+(nm-connection-editor:2867): GLib-GObject-CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(nm-connection-editor:2867): GLib-GIO-CRITICAL **: g_settings_new_with_path: assertion 'path_is_valid (path)' failed
+
+(nm-connection-editor:2867): GLib-GIO-CRITICAL **: g_settings_get_value: assertion 'G_IS_SETTINGS (settings)' failed
+
+(nm-connection-editor:2867): GLib-CRITICAL **: g_variant_get_type: assertion 'value != NULL' failed
+
+(nm-connection-editor:2867): GLib-CRITICAL **: g_variant_type_is_subtype_of: assertion 'g_variant_type_check (type)' failed
+
+(nm-connection-editor:2867): GLib-CRITICAL **: g_variant_get_boolean: assertion 'g_variant_is_of_type (value, G_VARIANT_TYPE_BOOLEAN)' failed
+
+(nm-connection-editor:2867): GLib-CRITICAL **: g_variant_unref: assertion 'value != NULL' failed
+
+(nm-connection-editor:2867): GLib-GObject-CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(nm-connection-editor:2915): GLib-GIO-CRITICAL **: g_settings_new_with_path: assertion 'path_is_valid (path)' failed
+
+(nm-connection-editor:2915): GLib-GIO-CRITICAL **: g_settings_get_value: assertion 'G_IS_SETTINGS (settings)' failed
+
+(nm-connection-editor:2915): GLib-CRITICAL **: g_variant_get_type: assertion 'value != NULL' failed
+
+(nm-connection-editor:2915): GLib-CRITICAL **: g_variant_type_is_subtype_of: assertion 'g_variant_type_check (type)' failed
+
+(nm-connection-editor:2915): GLib-CRITICAL **: g_variant_get_boolean: assertion 'g_variant_is_of_type (value, G_VARIANT_TYPE_BOOLEAN)' failed
+
+(nm-connection-editor:2915): GLib-CRITICAL **: g_variant_unref: assertion 'value != NULL' failed
+
+(nm-connection-editor:2915): GLib-GObject-CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(nm-connection-editor:2915): GLib-GIO-CRITICAL **: g_settings_new_with_path: assertion 'path_is_valid (path)' failed
+
+(nm-connection-editor:2915): GLib-GIO-CRITICAL **: g_settings_get_value: assertion 'G_IS_SETTINGS (settings)' failed
+
+(nm-connection-editor:2915): GLib-CRITICAL **: g_variant_get_type: assertion 'value != NULL' failed
+
+(nm-connection-editor:2915): GLib-CRITICAL **: g_variant_type_is_subtype_of: assertion 'g_variant_type_check (type)' failed
+
+(nm-connection-editor:2915): GLib-CRITICAL **: g_variant_get_boolean: assertion 'g_variant_is_of_type (value, G_VARIANT_TYPE_BOOLEAN)' failed
+
+(nm-connection-editor:2915): GLib-CRITICAL **: g_variant_unref: assertion 'value != NULL' failed
+
+(nm-connection-editor:2915): GLib-GObject-CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(nm-connection-editor:2915): GLib-GIO-CRITICAL **: g_settings_new_with_path: assertion 'path_is_valid (path)' failed
+
+(nm-connection-editor:2915): GLib-GIO-CRITICAL **: g_settings_get_value: assertion 'G_IS_SETTINGS (settings)' failed
+
+(nm-connection-editor:2915): GLib-CRITICAL **: g_variant_get_type: assertion 'value != NULL' failed
+
+(nm-connection-editor:2915): GLib-CRITICAL **: g_variant_type_is_subtype_of: assertion 'g_variant_type_check (type)' failed
+
+(nm-connection-editor:2915): GLib-CRITICAL **: g_variant_get_boolean: assertion 'g_variant_is_of_type (value, G_VARIANT_TYPE_BOOLEAN)' failed
+
+(nm-connection-editor:2915): GLib-CRITICAL **: g_variant_unref: assertion 'value != NULL' failed
+
+(nm-connection-editor:2915): GLib-GObject-CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+gnome-session[1905]: Gdk-WARNING: gnome-session: Fatal IO error 11 (资源暂时不可用) on X server :0.
+
+
+(update-notifier:2407): Gdk-WARNING **: update-notifier: Fatal IO error 11 (资源暂时不可用) on X server :0.
+
+
+(update-manager:2430): Gdk-WARNING **: update-manager: Fatal IO error 11 (资源暂时不可用) on X server :0.
+
+WARN  2020-08-26 08:45:33 unityname: "%s" <unknown>:0 compiz: Fatal IO error 11 (资源暂时不可用) on X server :0.
+
+GNOME_KEYRING_CONTROL=/run/user/1000/keyring-n7iSjZ
+GPG_AGENT_INFO=/run/user/1000/keyring-n7iSjZ/gpg:0:1
+SSH_AUTH_SOCK=/run/user/1000/keyring-n7iSjZ/ssh
+GNOME_KEYRING_CONTROL=/run/user/1000/keyring-n7iSjZ
+GPG_AGENT_INFO=/run/user/1000/keyring-n7iSjZ/gpg:0:1
+SSH_AUTH_SOCK=/run/user/1000/keyring-n7iSjZ/ssh
+GNOME_KEYRING_CONTROL=/run/user/1000/keyring-n7iSjZ
+GPG_AGENT_INFO=/run/user/1000/keyring-n7iSjZ/gpg:0:1
+SSH_AUTH_SOCK=/run/user/1000/keyring-n7iSjZ/ssh
+GNOME_KEYRING_CONTROL=/run/user/1000/keyring-n7iSjZ
+GPG_AGENT_INFO=/run/user/1000/keyring-n7iSjZ/gpg:0:1
+SSH_AUTH_SOCK=/run/user/1000/keyring-n7iSjZ/ssh
+compiz (core) - Info: Loading plugin: core
+compiz (core) - Info: Starting plugin: core
+compiz (core) - Info: Loading plugin: ccp
+compiz (core) - Info: Starting plugin: ccp
+compizconfig - Info: Backend     : gsettings
+compizconfig - Info: Integration : true
+compizconfig - Info: Profile     : unity
+compiz (core) - Info: Loading plugin: composite
+compiz (core) - Info: Starting plugin: composite
+compiz (core) - Info: Loading plugin: opengl
+compiz (core) - Info: Unity is not supported by your hardware. Enabling software rendering instead (slow).
+
+** (process:2087): CRITICAL **: bluez.vala:104: GDBus.Error:org.bluez.Error.NoSuchAdapter: No such adapter
+compiz (core) - Info: Unity is not supported by your hardware. Enabling software rendering instead (slow).
+
+(process:2082): indicator-application-service-WARNING **: Unable to get watcher name 'org.kde.StatusNotifierWatcher'
+
+(process:2082): indicator-application-service-WARNING **: Name Lost
+compiz (core) - Info: Starting plugin: opengl
+compiz (core) - Info: Loading plugin: compiztoolbox
+compiz (core) - Info: Starting plugin: compiztoolbox
+compiz (core) - Info: Loading plugin: vpswitch
+compiz (core) - Info: Starting plugin: vpswitch
+compiz (core) - Info: Loading plugin: snap
+compiz (core) - Info: Starting plugin: snap
+compiz (core) - Info: Loading plugin: copytex
+compiz (core) - Info: Starting plugin: copytex
+compiz (core) - Info: Loading plugin: grid
+compiz (core) - Info: Starting plugin: grid
+compiz (core) - Info: Loading plugin: imgpng
+compiz (core) - Info: Starting plugin: imgpng
+compiz (core) - Info: Loading plugin: place
+compiz (core) - Info: Starting plugin: place
+compiz (core) - Info: Loading plugin: session
+compiz (core) - Info: Starting plugin: session
+I/O warning : failed to load external entity "/home/hhb/.compiz/session/10a0849084629dd029159840286168396700000018380001"
+compiz (core) - Info: Loading plugin: move
+compiz (core) - Info: Starting plugin: move
+compiz (core) - Info: Loading plugin: unitymtgrabhandles
+compiz (core) - Info: Starting plugin: unitymtgrabhandles
+compiz (core) - Info: Loading plugin: resize
+compiz (core) - Info: Starting plugin: resize
+compiz (core) - Info: Loading plugin: mousepoll
+compiz (core) - Info: Starting plugin: mousepoll
+compiz (core) - Info: Loading plugin: commands
+compiz (core) - Info: Starting plugin: commands
+compiz (core) - Info: Loading plugin: wall
+compiz (core) - Info: Starting plugin: wall
+compiz (core) - Info: Loading plugin: regex
+compiz (core) - Info: Starting plugin: regex
+compiz (core) - Info: Loading plugin: animation
+compiz (core) - Info: Starting plugin: animation
+compiz (core) - Info: Loading plugin: workarounds
+compiz (core) - Info: Starting plugin: workarounds
+compiz (core) - Info: Loading plugin: fade
+compiz (core) - Info: Starting plugin: fade
+compiz (core) - Info: Loading plugin: expo
+compiz (core) - Info: Starting plugin: expo
+compiz (core) - Info: Loading plugin: scale
+compiz (core) - Info: Starting plugin: scale
+Fcitx is running correctly.
+compiz (core) - Info: Loading plugin: ezoom
+compiz (core) - Info: Starting plugin: ezoom
+sogou-qimpanel: /usr/lib/x86_64-linux-gnu/libstdc++.so.6: version `CXXABI_1.3.8' not found (required by sogou-qimpanel)
+sogou-qimpanel: /usr/lib/x86_64-linux-gnu/libstdc++.so.6: version `GLIBCXX_3.4.21' not found (required by sogou-qimpanel)
+compiz (core) - Info: Loading plugin: unityshell
+compiz (core) - Info: Starting plugin: unityshell
+WARN  2020-08-26 08:47:46 unity.glib.dbus.server GLibDBusServer.cpp:579 Can't register object 'org.gnome.Shell' yet as we don't have a connection, waiting for it...
+ERROR 2020-08-26 08:47:47 unity.debug.interface DebugDBusInterface.cpp:216 Unable to load entry point in libxpathselect: libxpathselect.so.1.4: 无法打开共享对象文件: 没有那个文件或目录
+WARN  2020-08-26 08:47:47 unity.glib.dbus.server GLibDBusServer.cpp:579 Can't register object 'com.canonical.Unity.Launcher' yet as we don't have a connection, waiting for it...
+WARN  2020-08-26 08:47:48 unity.glib.dbus.server GLibDBusServer.cpp:579 Can't register object 'com.canonical.Unity.Dash' yet as we don't have a connection, waiting for it...
+WARN  2020-08-26 08:47:48 nux.inputmethod.ibus InputMethodIBus.cpp:63 Impossible to connect to connect to ibus
+WARN  2020-08-26 08:47:48 unity.glib.dbus.server GLibDBusServer.cpp:579 Can't register object 'org.gnome.SessionManager.EndSessionDialog' yet as we don't have a connection, waiting for it...
+WARN  2020-08-26 08:47:48 unity.glib.dbus.server GLibDBusServer.cpp:579 Can't register object 'com.canonical.Unity.Session' yet as we don't have a connection, waiting for it...
+WARN  2020-08-26 08:47:48 unity.glib.dbus.server GLibDBusServer.cpp:579 Can't register object 'org.gnome.ScreenSaver' yet as we don't have a connection, waiting for it...
+
+** (unity-fallback-mount-helper:2080): WARNING **: Can't call IsLocked() on the Unity.Session object: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: 在路径 com.canonical.Unity.Session 的对象上没有 /com/canonical/Unity/Session 接口
+ERROR 2020-08-26 08:47:49 unity.glib.dbus.server GLibDBusServer.cpp:524 DBus name lost 'org.gnome.Shell'
+ERROR 2020-08-26 08:47:49 unity.glib.dbus.server GLibDBusServer.cpp:524 DBus name lost 'com.canonical.Unity'
+
+(nm-applet:2078): nm-applet-WARNING **: Could not find ShellVersion property on org.gnome.Shell after 5 tries
+
+(zeitgeist-datahub:2274): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(zeitgeist-datahub:2274): GLib-GObject-CRITICAL **: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+** (zeitgeist-datahub:2274): WARNING **: recent-manager-provider.vala:132: Desktop file for "file:///home/hhb/test_qt_1" was not found, exec: qtcreator, mime_type: inode/directory
+
+(nm-connection-editor:2301): GLib-GIO-CRITICAL **: g_settings_new_with_path: assertion 'path_is_valid (path)' failed
+
+(nm-connection-editor:2301): GLib-GIO-CRITICAL **: g_settings_get_value: assertion 'G_IS_SETTINGS (settings)' failed
+
+(nm-connection-editor:2301): GLib-CRITICAL **: g_variant_get_type: assertion 'value != NULL' failed
+
+(nm-connection-editor:2301): GLib-CRITICAL **: g_variant_type_is_subtype_of: assertion 'g_variant_type_check (type)' failed
+
+(nm-connection-editor:2301): GLib-CRITICAL **: g_variant_get_boolean: assertion 'g_variant_is_of_type (value, G_VARIANT_TYPE_BOOLEAN)' failed
+
+(nm-connection-editor:2301): GLib-CRITICAL **: g_variant_unref: assertion 'value != NULL' failed
+
+(nm-connection-editor:2301): GLib-GObject-CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(nm-connection-editor:2301): GLib-GIO-CRITICAL **: g_settings_new_with_path: assertion 'path_is_valid (path)' failed
+
+(nm-connection-editor:2301): GLib-GIO-CRITICAL **: g_settings_get_value: assertion 'G_IS_SETTINGS (settings)' failed
+
+(nm-connection-editor:2301): GLib-CRITICAL **: g_variant_get_type: assertion 'value != NULL' failed
+
+(nm-connection-editor:2301): GLib-CRITICAL **: g_variant_type_is_subtype_of: assertion 'g_variant_type_check (type)' failed
+
+(nm-connection-editor:2301): GLib-CRITICAL **: g_variant_get_boolean: assertion 'g_variant_is_of_type (value, G_VARIANT_TYPE_BOOLEAN)' failed
+
+(nm-connection-editor:2301): GLib-CRITICAL **: g_variant_unref: assertion 'value != NULL' failed
+
+(nm-connection-editor:2301): GLib-GObject-CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(nm-connection-editor:2301): GLib-GIO-CRITICAL **: g_settings_new_with_path: assertion 'path_is_valid (path)' failed
+
+(nm-connection-editor:2301): GLib-GIO-CRITICAL **: g_settings_get_value: assertion 'G_IS_SETTINGS (settings)' failed
+
+(nm-connection-editor:2301): GLib-CRITICAL **: g_variant_get_type: assertion 'value != NULL' failed
+
+(nm-connection-editor:2301): GLib-CRITICAL **: g_variant_type_is_subtype_of: assertion 'g_variant_type_check (type)' failed
+
+(nm-connection-editor:2301): GLib-CRITICAL **: g_variant_get_boolean: assertion 'g_variant_is_of_type (value, G_VARIANT_TYPE_BOOLEAN)' failed
+
+(nm-connection-editor:2301): GLib-CRITICAL **: g_variant_unref: assertion 'value != NULL' failed
+
+(nm-connection-editor:2301): GLib-GObject-CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+WARN  2020-08-26 08:48:28 nux.inputmethod.ibus InputMethodIBus.cpp:63 Impossible to connect to connect to ibus
+WARN  2020-08-26 08:48:28 unity{?*} <unknown>:0 protocol-scope-discovery.vala:542: Number of elements of OptionIDs doesn't match OptionNames (14 vs 28)
+WARN  2020-08-26 08:48:28 unity{?*} <unknown>:0 protocol-scope-discovery.vala:542: Number of elements of OptionIDs doesn't match OptionNames (2 vs 4)
+WARN  2020-08-26 08:48:28 unity{?*} <unknown>:0 protocol-scope-discovery.vala:542: Number of elements of OptionIDs doesn't match OptionNames (3 vs 6)
+WARN  2020-08-26 08:48:28 unity{?*} <unknown>:0 protocol-scope-discovery.vala:542: Number of elements of OptionIDs doesn't match OptionNames (7 vs 14)
+WARN  2020-08-26 08:48:28 unity{?*} <unknown>:0 protocol-scope-discovery.vala:542: Number of elements of OptionIDs doesn't match OptionNames (7 vs 14)
+WARN  2020-08-26 08:48:28 unity{?*} <unknown>:0 protocol-scope-discovery.vala:542: Number of elements of OptionIDs doesn't match OptionNames (18 vs 36)
+WARN  2020-08-26 08:48:28 unity{?*} <unknown>:0 protocol-scope-discovery.vala:542: Number of elements of OptionIDs doesn't match OptionNames (4 vs 8)
+
+(nm-connection-editor:2301): GLib-GIO-CRITICAL **: g_settings_new_with_path: assertion 'path_is_valid (path)' failed
+
+(nm-connection-editor:2301): GLib-GIO-CRITICAL **: g_settings_get_value: assertion 'G_IS_SETTINGS (settings)' failed
+
+(nm-connection-editor:2301): GLib-CRITICAL **: g_variant_get_type: assertion 'value != NULL' failed
+
+(nm-connection-editor:2301): GLib-CRITICAL **: g_variant_type_is_subtype_of: assertion 'g_variant_type_check (type)' failed
+
+(nm-connection-editor:2301): GLib-CRITICAL **: g_variant_get_boolean: assertion 'g_variant_is_of_type (value, G_VARIANT_TYPE_BOOLEAN)' failed
+
+(nm-connection-editor:2301): GLib-CRITICAL **: g_variant_unref: assertion 'value != NULL' failed
+
+(nm-connection-editor:2301): GLib-GObject-CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(nm-connection-editor:2301): GLib-GIO-CRITICAL **: g_settings_new_with_path: assertion 'path_is_valid (path)' failed
+
+(nm-connection-editor:2301): GLib-GIO-CRITICAL **: g_settings_get_value: assertion 'G_IS_SETTINGS (settings)' failed
+
+(nm-connection-editor:2301): GLib-CRITICAL **: g_variant_get_type: assertion 'value != NULL' failed
+
+(nm-connection-editor:2301): GLib-CRITICAL **: g_variant_type_is_subtype_of: assertion 'g_variant_type_check (type)' failed
+
+(nm-connection-editor:2301): GLib-CRITICAL **: g_variant_get_boolean: assertion 'g_variant_is_of_type (value, G_VARIANT_TYPE_BOOLEAN)' failed
+
+(nm-connection-editor:2301): GLib-CRITICAL **: g_variant_unref: assertion 'value != NULL' failed
+
+(nm-connection-editor:2301): GLib-GObject-CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(nm-connection-editor:2301): GLib-GIO-CRITICAL **: g_settings_new_with_path: assertion 'path_is_valid (path)' failed
+
+(nm-connection-editor:2301): GLib-GIO-CRITICAL **: g_settings_get_value: assertion 'G_IS_SETTINGS (settings)' failed
+
+(nm-connection-editor:2301): GLib-CRITICAL **: g_variant_get_type: assertion 'value != NULL' failed
+
+(nm-connection-editor:2301): GLib-CRITICAL **: g_variant_type_is_subtype_of: assertion 'g_variant_type_check (type)' failed
+
+(nm-connection-editor:2301): GLib-CRITICAL **: g_variant_get_boolean: assertion 'g_variant_is_of_type (value, G_VARIANT_TYPE_BOOLEAN)' failed
+
+(nm-connection-editor:2301): GLib-CRITICAL **: g_variant_unref: assertion 'value != NULL' failed
+
+(nm-connection-editor:2301): GLib-GObject-CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (nm-connection-editor:2301): WARNING **: Invalid setting IPv4 设置: addresses
+
+** (nm-connection-editor:2301): WARNING **: Invalid setting IPv4 设置: addresses
+
+** (nm-connection-editor:2301): WARNING **: ui_to_setting: IPv4 address '<none>' missing or invalid!
+
+** (nm-connection-editor:2301): WARNING **: Invalid setting IPv4 设置
+
+** (nm-connection-editor:2301): WARNING **: ui_to_setting: IPv4 address '' missing or invalid!
+
+** (nm-connection-editor:2301): WARNING **: Invalid setting IPv4 设置
+
+** (nm-connection-editor:2301): WARNING **: ui_to_setting: IPv4 address '172.16' missing or invalid!
+
+** (nm-connection-editor:2301): WARNING **: Invalid setting IPv4 设置
+
+(nm-connection-editor:2301): GLib-GObject-CRITICAL **: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+
+(nm-connection-editor:2301): Gtk-CRITICAL **: gtk_widget_is_sensitive: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-connection-editor:2301): Gtk-CRITICAL **: gtk_widget_has_grab: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-connection-editor:2301): Gtk-CRITICAL **: gtk_widget_get_style_context: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-connection-editor:2301): Gtk-CRITICAL **: gtk_style_context_set_state: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(nm-connection-editor:2301): GLib-GObject-WARNING **: instance with invalid (NULL) class pointer
+
+(nm-connection-editor:2301): GLib-GObject-CRITICAL **: g_signal_emit_valist: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(nm-connection-editor:2301): GLib-GObject-WARNING **: instance with invalid (NULL) class pointer
+
+(nm-connection-editor:2301): GLib-GObject-CRITICAL **: g_signal_emit_valist: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(nm-connection-editor:2301): Gtk-CRITICAL **: _gtk_widget_list_devices: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-connection-editor:2301): GLib-GObject-CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (nm-connection-editor:2301): WARNING **: ui_to_setting: IPv4 address '172.16' missing or invalid!
+
+** (nm-connection-editor:2301): WARNING **: Invalid setting IPv4 设置
+
+** (nm-connection-editor:2301): WARNING **: ui_to_setting: IPv4 address '172.16' missing or invalid!
+
+** (nm-connection-editor:2301): WARNING **: Invalid setting IPv4 设置
+
+** (update-notifier:2321): WARNING **: log file empty (logrotate?) /var/log/dpkg.log
+
+** (update-notifier:2321): WARNING **: log file empty (logrotate?) /var/log/apt/term.log
+
+** (nm-connection-editor:2301): WARNING **: ui_to_setting: IPv4 prefix '<none>' missing!
+
+** (nm-connection-editor:2301): WARNING **: Invalid setting IPv4 设置
+
+(firefox:2561): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2561): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2561): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2561): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2561): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2561): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2561): GLib-GObject-WARNING **: g_object_get_valist: object class 'GtkSettings' has no property named 'gtk-decoration-layout'
+
+(firefox:2561): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2561): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2561): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2561): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2561): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2561): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2561): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2561): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2561): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2561): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2561): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2561): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2561): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2561): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2616): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2616): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2616): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2616): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2616): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2616): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2616): GLib-GObject-WARNING **: g_object_get_valist: object class 'GtkSettings' has no property named 'gtk-decoration-layout'
+
+(/usr/lib/firefox/firefox:2616): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2616): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2616): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2616): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2616): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2616): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2616): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2616): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2616): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2616): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2616): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2616): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2616): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2616): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2659): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2659): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2659): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2659): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2659): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2659): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2659): GLib-GObject-WARNING **: g_object_get_valist: object class 'GtkSettings' has no property named 'gtk-decoration-layout'
+
+(/usr/lib/firefox/firefox:2659): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2659): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2659): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2659): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2659): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2659): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2659): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2659): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2659): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2659): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2659): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2659): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2659): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2659): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2561): LIBDBUSMENU-GTK-CRITICAL **: dbusmenu_menuitem_property_set_shortcut: assertion 'gtk_accelerator_valid(key, modifier)' failed
+
+(nautilus:2093): GLib-CRITICAL **: Source ID 272 was not found when attempting to remove it
+
+(nautilus:2093): GLib-CRITICAL **: Source ID 273 was not found when attempting to remove it
+
+(nautilus:2093): GLib-CRITICAL **: Source ID 274 was not found when attempting to remove it
+
+(firefox:2561): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2561): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2561): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2561): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2561): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2561): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2561): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2561): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2561): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2561): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2616): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2616): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2616): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2616): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2561): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2561): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2616): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2616): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2616): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2616): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2561): GLib-GObject-WARNING **: g_object_get_valist: object class 'GtkSettings' has no property named 'gtk-decoration-layout'
+
+(/usr/lib/firefox/firefox:2616): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2616): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2616): GLib-GObject-WARNING **: g_object_get_valist: object class 'GtkSettings' has no property named 'gtk-decoration-layout'
+
+(firefox:2561): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2561): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2561): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2561): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2561): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2561): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2561): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2561): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2561): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2561): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2561): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2561): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2561): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2561): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+gnome-session[1838]: Gdk-WARNING: gnome-session: Fatal IO error 11 (资源暂时不可用) on X server :0.
+
+
+(unity-fallback-mount-helper:2080): Gdk-WARNING **: unity-fallback-mount-helper: Fatal IO error 11 (资源暂时不可用) on X server :0.
+
+
+(update-notifier:2321): Gdk-WARNING **: update-notifier: Fatal IO error 11 (资源暂时不可用) on X server :0.
+
+
+(telepathy-indicator:2254): Gdk-WARNING **: telepathy-indicator: Fatal IO error 11 (资源暂时不可用) on X server :0.
+
+
+(nm-applet:2078): Gdk-WARNING **: nm-applet: Fatal IO error 11 (资源暂时不可用) on X server :0.
+
+GNOME_KEYRING_CONTROL=/run/user/1000/keyring-XFXX7z
+SSH_AUTH_SOCK=/run/user/1000/keyring-XFXX7z/ssh
+GPG_AGENT_INFO=/run/user/1000/keyring-XFXX7z/gpg:0:1
+GNOME_KEYRING_CONTROL=/run/user/1000/keyring-XFXX7z
+SSH_AUTH_SOCK=/run/user/1000/keyring-XFXX7z/ssh
+GPG_AGENT_INFO=/run/user/1000/keyring-XFXX7z/gpg:0:1
+GNOME_KEYRING_CONTROL=/run/user/1000/keyring-XFXX7z
+SSH_AUTH_SOCK=/run/user/1000/keyring-XFXX7z/ssh
+GPG_AGENT_INFO=/run/user/1000/keyring-XFXX7z/gpg:0:1
+GNOME_KEYRING_CONTROL=/run/user/1000/keyring-XFXX7z
+SSH_AUTH_SOCK=/run/user/1000/keyring-XFXX7z/ssh
+GPG_AGENT_INFO=/run/user/1000/keyring-XFXX7z/gpg:0:1
+compiz (core) - Info: Loading plugin: core
+compiz (core) - Info: Starting plugin: core
+compiz (core) - Info: Loading plugin: ccp
+compiz (core) - Info: Starting plugin: ccp
+compizconfig - Info: Backend     : gsettings
+compizconfig - Info: Integration : true
+compizconfig - Info: Profile     : unity
+
+(process:2228): indicator-application-service-WARNING **: Name Lost
+
+** (process:2235): CRITICAL **: bluez.vala:104: GDBus.Error:org.bluez.Error.NoSuchAdapter: No such adapter
+compiz (core) - Info: Loading plugin: composite
+compiz (core) - Info: Starting plugin: composite
+compiz (core) - Info: Loading plugin: opengl
+compiz (core) - Info: Unity is not supported by your hardware. Enabling software rendering instead (slow).
+compiz (core) - Info: Unity is not supported by your hardware. Enabling software rendering instead (slow).
+compiz (core) - Info: Starting plugin: opengl
+compiz (core) - Info: Loading plugin: compiztoolbox
+compiz (core) - Info: Starting plugin: compiztoolbox
+compiz (core) - Info: Loading plugin: vpswitch
+compiz (core) - Info: Starting plugin: vpswitch
+compiz (core) - Info: Loading plugin: snap
+compiz (core) - Info: Starting plugin: snap
+compiz (core) - Info: Loading plugin: copytex
+compiz (core) - Info: Starting plugin: copytex
+compiz (core) - Info: Loading plugin: grid
+compiz (core) - Info: Starting plugin: grid
+compiz (core) - Info: Loading plugin: imgpng
+compiz (core) - Info: Starting plugin: imgpng
+compiz (core) - Info: Loading plugin: place
+compiz (core) - Info: Starting plugin: place
+compiz (core) - Info: Loading plugin: session
+compiz (core) - Info: Starting plugin: session
+I/O warning : failed to load external entity "/home/hhb/.compiz/session/106c6bb7799dc395bc159840318328288300000020240001"
+compiz (core) - Info: Loading plugin: move
+compiz (core) - Info: Starting plugin: move
+compiz (core) - Info: Loading plugin: unitymtgrabhandles
+compiz (core) - Info: Starting plugin: unitymtgrabhandles
+compiz (core) - Info: Loading plugin: resize
+compiz (core) - Info: Starting plugin: resize
+compiz (core) - Info: Loading plugin: mousepoll
+compiz (core) - Info: Starting plugin: mousepoll
+compiz (core) - Info: Loading plugin: commands
+compiz (core) - Info: Starting plugin: commands
+compiz (core) - Info: Loading plugin: wall
+compiz (core) - Info: Starting plugin: wall
+compiz (core) - Info: Loading plugin: regex
+compiz (core) - Info: Starting plugin: regex
+compiz (core) - Info: Loading plugin: animation
+compiz (core) - Info: Starting plugin: animation
+compiz (core) - Info: Loading plugin: workarounds
+compiz (core) - Info: Starting plugin: workarounds
+compiz (core) - Info: Loading plugin: fade
+compiz (core) - Info: Starting plugin: fade
+compiz (core) - Info: Loading plugin: expo
+compiz (core) - Info: Starting plugin: expo
+compiz (core) - Info: Loading plugin: scale
+compiz (core) - Info: Starting plugin: scale
+compiz (core) - Info: Loading plugin: ezoom
+compiz (core) - Info: Starting plugin: ezoom
+compiz (core) - Info: Loading plugin: unityshell
+compiz (core) - Info: Starting plugin: unityshell
+WARN  2020-08-26 08:53:06 unity.glib.dbus.server GLibDBusServer.cpp:579 Can't register object 'org.gnome.Shell' yet as we don't have a connection, waiting for it...
+Fcitx is running correctly.
+sogou-qimpanel: /usr/lib/x86_64-linux-gnu/libstdc++.so.6: version `CXXABI_1.3.8' not found (required by sogou-qimpanel)
+sogou-qimpanel: /usr/lib/x86_64-linux-gnu/libstdc++.so.6: version `GLIBCXX_3.4.21' not found (required by sogou-qimpanel)
+ERROR 2020-08-26 08:53:06 unity.debug.interface DebugDBusInterface.cpp:216 Unable to load entry point in libxpathselect: libxpathselect.so.1.4: 无法打开共享对象文件: 没有那个文件或目录
+WARN  2020-08-26 08:53:06 unity.glib.dbus.server GLibDBusServer.cpp:579 Can't register object 'com.canonical.Unity.Launcher' yet as we don't have a connection, waiting for it...
+WARN  2020-08-26 08:53:07 unity.glib.dbus.server GLibDBusServer.cpp:579 Can't register object 'com.canonical.Unity.Dash' yet as we don't have a connection, waiting for it...
+WARN  2020-08-26 08:53:10 nux.inputmethod.ibus InputMethodIBus.cpp:63 Impossible to connect to connect to ibus
+WARN  2020-08-26 08:53:10 unity.glib.dbus.server GLibDBusServer.cpp:579 Can't register object 'org.gnome.SessionManager.EndSessionDialog' yet as we don't have a connection, waiting for it...
+WARN  2020-08-26 08:53:10 unity.glib.dbus.server GLibDBusServer.cpp:579 Can't register object 'com.canonical.Unity.Session' yet as we don't have a connection, waiting for it...
+WARN  2020-08-26 08:53:10 unity.glib.dbus.server GLibDBusServer.cpp:579 Can't register object 'org.gnome.ScreenSaver' yet as we don't have a connection, waiting for it...
+
+** (unity-fallback-mount-helper:2224): WARNING **: Can't call IsLocked() on the Unity.Session object: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: 在路径 com.canonical.Unity.Session 的对象上没有 /com/canonical/Unity/Session 接口
+ERROR 2020-08-26 08:53:10 unity.glib.dbus.server GLibDBusServer.cpp:524 DBus name lost 'org.gnome.Shell'
+ERROR 2020-08-26 08:53:10 unity.glib.dbus.server GLibDBusServer.cpp:524 DBus name lost 'com.canonical.Unity'
+
+(nm-applet:2221): nm-applet-WARNING **: Could not find ShellVersion property on org.gnome.Shell after 5 tries
+
+(zeitgeist-datahub:2469): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(zeitgeist-datahub:2469): GLib-GObject-CRITICAL **: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+** (zeitgeist-datahub:2469): WARNING **: recent-manager-provider.vala:132: Desktop file for "file:///home/hhb/test_qt_1" was not found, exec: qtcreator, mime_type: inode/directory
+WARN  2020-08-26 08:53:50 nux.inputmethod.ibus InputMethodIBus.cpp:63 Impossible to connect to connect to ibus
+WARN  2020-08-26 08:53:50 unity{?*} <unknown>:0 protocol-scope-discovery.vala:542: Number of elements of OptionIDs doesn't match OptionNames (14 vs 28)
+WARN  2020-08-26 08:53:50 unity{?*} <unknown>:0 protocol-scope-discovery.vala:542: Number of elements of OptionIDs doesn't match OptionNames (2 vs 4)
+WARN  2020-08-26 08:53:50 unity{?*} <unknown>:0 protocol-scope-discovery.vala:542: Number of elements of OptionIDs doesn't match OptionNames (3 vs 6)
+WARN  2020-08-26 08:53:50 unity{?*} <unknown>:0 protocol-scope-discovery.vala:542: Number of elements of OptionIDs doesn't match OptionNames (7 vs 14)
+WARN  2020-08-26 08:53:50 unity{?*} <unknown>:0 protocol-scope-discovery.vala:542: Number of elements of OptionIDs doesn't match OptionNames (7 vs 14)
+WARN  2020-08-26 08:53:50 unity{?*} <unknown>:0 protocol-scope-discovery.vala:542: Number of elements of OptionIDs doesn't match OptionNames (18 vs 36)
+WARN  2020-08-26 08:53:50 unity{?*} <unknown>:0 protocol-scope-discovery.vala:542: Number of elements of OptionIDs doesn't match OptionNames (4 vs 8)
+/var/lib/dpkg/lock: 

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE QtCreatorProfiles>
+<!-- Written by QtCreator 3.5.1, 2020-08-25T13:25:44. -->
+<qtcreator>
+ <data>
+  <variable>Profile.0</variable>
+  <valuemap type="QVariantMap">
+   <value type="bool" key="PE.Profile.AutoDetected">true</value>
+   <value type="QString" key="PE.Profile.AutoDetectionSource"></value>
+   <valuemap type="QVariantMap" key="PE.Profile.Data">
+    <value type="QString" key="Android.GdbServer.Information"></value>
+    <value type="QString" key="CMakeProjectManager.CMakeKitInformation"></value>
+    <value type="QString" key="Debugger.Information">{f1d53670-3d99-4441-82fc-b67ed54f2faf}</value>
+    <value type="QString" key="PE.Profile.Device">Desktop Device</value>
+    <value type="QString" key="PE.Profile.DeviceType">Desktop</value>
+    <valuelist type="QVariantList" key="PE.Profile.Environment"/>
+    <value type="QString" key="PE.Profile.SysRoot"></value>
+    <value type="QString" key="PE.Profile.ToolChain">ProjectExplorer.ToolChain.Gcc:{57dc6fe1-2f73-4059-8459-0f71aafe86c5}</value>
+    <value type="QString" key="QtPM4.mkSpecInformation"></value>
+    <value type="QString" key="QtSupport.QtInformation">SDK.qt.55.gcc_64</value>
+   </valuemap>
+   <value type="QString" key="PE.Profile.Icon">:///DESKTOP///</value>
+   <value type="QString" key="PE.Profile.Id">qt.55.gcc_64_kit</value>
+   <valuelist type="QVariantList" key="PE.Profile.MutableInfo"/>
+   <value type="QString" key="PE.Profile.Name">Desktop Qt %{Qt:Version} GCC 64bit</value>
+   <value type="bool" key="PE.Profile.SDK">true</value>
+   <valuelist type="QVariantList" key="PE.Profile.StickyInfo">
+    <value type="QString">QtSupport.QtInformation</value>
+    <value type="QString">PE.Profile.DeviceType</value>
+    <value type="QString">PE.Profile.ToolChain</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>Profile.1</variable>
+  <valuemap type="QVariantMap">
+   <value type="bool" key="PE.Profile.AutoDetected">false</value>
+   <value type="QString" key="PE.Profile.AutoDetectionSource"></value>
+   <valuemap type="QVariantMap" key="PE.Profile.Data">
+    <value type="QString" key="Android.GdbServer.Information"></value>
+    <value type="QString" key="CMakeProjectManager.CMakeKitInformation"></value>
+    <value type="QString" key="Debugger.Information">{1aa12b84-2de2-42cf-9d06-677b0e46fd67}</value>
+    <value type="QString" key="PE.Profile.Device">Desktop Device</value>
+    <value type="QByteArray" key="PE.Profile.DeviceType">Desktop</value>
+    <valuelist type="QVariantList" key="PE.Profile.Environment"/>
+    <value type="QString" key="PE.Profile.SysRoot"></value>
+    <value type="QString" key="PE.Profile.ToolChain">ProjectExplorer.ToolChain.Gcc:{6497329e-a5dd-4031-b7d0-db49ae6c0ba2}</value>
+    <value type="QString" key="QtPM4.mkSpecInformation">linux-oe-g++</value>
+    <value type="int" key="QtSupport.QtInformation">2</value>
+   </valuemap>
+   <value type="QString" key="PE.Profile.Icon">:///DESKTOP///</value>
+   <value type="QString" key="PE.Profile.Id">{3ece481d-1a44-4490-8865-ded32f3b8166}</value>
+   <valuelist type="QVariantList" key="PE.Profile.MutableInfo"/>
+   <value type="QString" key="PE.Profile.Name">imx6</value>
+   <value type="bool" key="PE.Profile.SDK">false</value>
+   <valuelist type="QVariantList" key="PE.Profile.StickyInfo"/>
+  </valuemap>
+ </data>
+ <data>
+  <variable>Profile.Count</variable>
+  <value type="int">2</value>
+ </data>
+ <data>
+  <variable>Profile.Default</variable>
+  <value type="QString">{3ece481d-1a44-4490-8865-ded32f3b8166}</value>
+ </data>
+ <data>
+  <variable>Version</variable>
+  <value type="int">1</value>
+ </data>
+</qtcreator>

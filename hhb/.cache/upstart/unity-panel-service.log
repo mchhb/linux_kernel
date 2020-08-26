@@ -1,0 +1,14 @@
+
+(unity-panel-service:1909): Gdk-WARNING **: unity-panel-service: Fatal IO error 11 (资源暂时不可用) on X server :0.
+
+
+(unity-panel-service:1852): Indicator-Appmenu-WARNING **: Already have a menu for window ID 69206037 with path /com/canonical/menu/4200015 from :1.71, unregistering that one
+
+(unity-panel-service:1852): Indicator-Appmenu-WARNING **: Already have a menu for window ID 69206037 with path /com/canonical/menu/4200015 from :1.71, unregistering that one
+
+(unity-panel-service:1852): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'wm != NULL' failed
+
+(unity-panel-service:1852): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'wm != NULL' failed
+
+(unity-panel-service:1852): Gdk-WARNING **: unity-panel-service: Fatal IO error 11 (资源暂时不可用) on X server :0.
+

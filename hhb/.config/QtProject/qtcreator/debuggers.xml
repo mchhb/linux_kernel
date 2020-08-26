@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE QtCreatorDebuggers>
+<!-- Written by QtCreator 3.5.1, 2020-08-25T13:25:44. -->
+<qtcreator>
+ <data>
+  <variable>DebuggerItem.0</variable>
+  <valuemap type="QVariantMap">
+   <valuelist type="QVariantList" key="Abis">
+    <value type="QString">x86-linux-generic-elf-64bit</value>
+   </valuelist>
+   <value type="bool" key="AutoDetected">true</value>
+   <value type="QString" key="AutoDetectionSource"></value>
+   <value type="QString" key="Binary">/usr/bin/gdb</value>
+   <value type="QString" key="DisplayName">System GDB at /usr/bin/gdb</value>
+   <value type="int" key="EngineType">1</value>
+   <value type="QString" key="Id">{f1d53670-3d99-4441-82fc-b67ed54f2faf}</value>
+   <value type="QString" key="Version">7.7.1</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>DebuggerItem.1</variable>
+  <valuemap type="QVariantMap">
+   <valuelist type="QVariantList" key="Abis">
+    <value type="QString">arm-linux-generic-elf-32bit</value>
+   </valuelist>
+   <value type="bool" key="AutoDetected">false</value>
+   <value type="QString" key="AutoDetectionSource"></value>
+   <value type="QString" key="Binary">/opt/fsl-imx-x11/4.1.15-2.1.0/sysroots/x86_64-pokysdk-linux/usr/bin/arm-poky-linux-gnueabi/arm-poky-linux-gnueabi-gdb</value>
+   <value type="QString" key="DisplayName">imx6gdb</value>
+   <value type="int" key="EngineType">1</value>
+   <value type="QString" key="Id">{1aa12b84-2de2-42cf-9d06-677b0e46fd67}</value>
+   <value type="QString" key="Version">7.10.1</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>DebuggerItem.Count</variable>
+  <value type="int">2</value>
+ </data>
+ <data>
+  <variable>Version</variable>
+  <value type="int">1</value>
+ </data>
+</qtcreator>

@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DOCUMENT expireTime="-1">
+  <debuginfo vrSign="f85ef099bf8a9ce2edaef9d33072b37d" vrInfo="[vr_req=0]qoHost=10.153.52.27,qoID=0000000000c6e3df,vrCache=-1,qo_writeCache=1,request_id=0000000003782f9d,requestVRType=MULTIHIT.SOGOU.tianqishengfen70090206 ,forceQuery=0,get_db_ok=1,need_writeback=1,return_vr=MULTIHIT.SOGOU.tianqishengfen70090206,result_num=1,qcNd=0,qcStr=,qcLev=-9,qoST=3,Cost=[Rcv=0ms,ParamQ=0ms,param=0ms,Vrqr=0ms,QoQ=0ms,Qo=9ms,LocQ=0ms,Loc=0ms,CrQ=0ms,Cr=151ms,ProcQ=0ms,proc=1ms,PrsQ=20ms,Prs=0ms,Dc=20ms,xslt=0ms],vr_detail={{vrID:70090206,ret:1,TOut:0,ST:7,FT:0,HaveVR:1,NoVR:0,Loc=0,CraErr:0,ParErr:0,XslReq:1,XslOK:1,RdCache:0,ECCraT:151ms,DCCraT:19ms,CoT:184ms,ExpiVR:0,integratedVR:0,parentId:},},responseTime=Mon Dec  9 15:44:24 2019,10.143.42.55," vrRecord="{&quot;vr_record&quot;:[{&quot;query&quot;:&quot;%E9%BB%91%E9%BE%99%E6%B1%9F%E5%93%88%E5%B0%94%E6%BB%A8%E5%A4%A9%E6%B0%94&quot;},]}"/>
+  <controlinfo>
+<config warnLevel="0" rankType="" termList="黑龙江,28;哈尔滨,43;天气,9;" attribute="" pingbackTimeout="500">
+    <protectList/>
+    <blackList>
+      <item name="vr_filter:sogou#vr_EXTERNAL.TRAIN.SERACH|sogou#vr_calendar|sogou#vr_EXTERNAL.TINY.WANNIANLI|baidu#vr_edu_sina|baidu#vr_dianping"/>
+    </blackList>
+    <sourceWeight/>
+    <vtWeight/>
+  </config>
+  <optimize frontQcString="" cacheQcString="" qcRefine="黑龙江哈尔滨天气" queryRedirect="黑龙江哈尔滨天气" queryType="0000000000000000" queryAttr="00000000" qcLevel="0" qcMergeType="0" segInfo="">
+    <keyTokens>
+      <token value="黑龙江"/>
+      <token value="哈尔滨"/>
+      <token value="天气"/>
+    </keyTokens>
+    <baiduVrType/>
+    <googleVrType/>
+    <qctimeout>0</qctimeout>
+    <vrList>
+      <location>黑龙江省	哈尔滨市</location>
+      <item query="{city}时间::web" query_vocab="" data="" oriword="" classId="21315801" classNo="0" classTag="21315801_0" vrType="0" rankType="0" expireTime="0" rankParams="0.000000;0.000000;0.000000;0.000000;0.000000" location="0" groupID="" accurateType="0" accurateAttr="" tplId="" sortRules="" sortPriority="0" vrSource="" hitPriority="0" item_num="0" max_group_num="0" group_by="0" group_sort="" innerFixRank="" abTest="0" shWhite="0" shBlack="0" isGps="" searchScope="" gpsItemNum="" pageTurn="0" sum_status="0" use_oriword="0" parentId="70089410" index="" vr_level="0" innerSource="" is_business="0" isOrder="0" multiHitInfo="" externSource="" wap_abtest="" gpsErrorOp="1" timeInfo="" rankScore="0.000000" vrqrFlag="0" qrQuery="" qr_info=""/>
+      <item query="{xianzhen}时间::web" query_vocab="" data="" oriword="" classId="21315801" classNo="0" classTag="21315801_1" vrType="0" rankType="0" expireTime="0" rankParams="0.000000;0.000000;0.000000;0.000000;0.000000" location="0" groupID="" accurateType="0" accurateAttr="" tplId="" sortRules="" sortPriority="0" vrSource="" hitPriority="0" item_num="0" max_group_num="0" group_by="0" group_sort="" innerFixRank="" abTest="0" shWhite="0" shBlack="0" isGps="" searchScope="" gpsItemNum="" pageTurn="0" sum_status="0" use_oriword="0" parentId="70089410" index="" vr_level="0" innerSource="" is_business="0" isOrder="0" multiHitInfo="" externSource="" wap_abtest="" gpsErrorOp="1" timeInfo="" rankScore="0.000000" vrqrFlag="0" qrQuery="" qr_info=""/>
+      <item query="{xiang}时间::web" query_vocab="" data="" oriword="" classId="21315801" classNo="0" classTag="21315801_2" vrType="0" rankType="0" expireTime="0" rankParams="0.000000;0.000000;0.000000;0.000000;0.000000" location="0" groupID="" accurateType="0" accurateAttr="" tplId="" sortRules="" sortPriority="0" vrSource="" hitPriority="0" item_num="0" max_group_num="0" group_by="0" group_sort="" innerFixRank="" abTest="0" shWhite="0" shBlack="0" isGps="" searchScope="" gpsItemNum="" pageTurn="0" sum_status="0" use_oriword="0" parentId="70089410" index="" vr_level="0" innerSource="" is_business="0" isOrder="0" multiHitInfo="" externSource="" wap_abtest="" gpsErrorOp="1" timeInfo="" rankScore="0.000000" vrqrFlag="0" qrQuery="" qr_info=""/>
+      <item query="mingzhong::天气::0" query_vocab="mingzhong::天气::0" data="" oriword="" classId="70089410" classNo="0" classTag="MULTIHIT.SOGOU.tianqiguoji70089410" vrType="3" rankType="0" expireTime="300" rankParams="0.000000;0.000000;0.000000;0.000000;801.000000" location="4" groupID="NULL" accurateType="0" accurateAttr="" tplId="70089401" sortRules="2::asc" sortPriority="0" vrSource="11" hitPriority="9" item_num="1" max_group_num="1" group_by="0" group_sort="" innerFixRank="NULL" abTest="0" shWhite="0" shBlack="0" isGps="" searchScope="" gpsItemNum="" pageTurn="0" sum_status="1" use_oriword="0" parentId="" index="" vr_level="0" innerSource="" is_business="0" isOrder="0" multiHitInfo="" externSource="" wap_abtest="111111" gpsErrorOp="1" timeInfo="" rankScore="0.000000" vrqrFlag="0" qrQuery="" qr_info=""/>
+      <item query="province::黑龙江::0||city::哈尔滨::0" query_vocab="province::黑龙江::0||city::哈尔滨::0" data="" oriword="" classId="70090203" classNo="0" classTag="MULTIHIT.SOGOU.tianqishengfen70090203" vrType="1" rankType="0" expireTime="300" rankParams="0.000000;0.000000;0.000000;0.000000;105.000000" location="0" groupID="NULL" accurateType="0" accurateAttr="" tplId="70050100" sortRules="" sortPriority="0" vrSource="1" hitPriority="15" item_num="1" max_group_num="1" group_by="0" group_sort="" innerFixRank="NULL" abTest="0" shWhite="0" shBlack="0" isGps="" searchScope="" gpsItemNum="" pageTurn="0" sum_status="1" use_oriword="0" parentId="" index="" vr_level="0" innerSource="" is_business="0" isOrder="0" multiHitInfo="" externSource="" wap_abtest="111111" gpsErrorOp="1" timeInfo="" rankScore="0.000000" vrqrFlag="0" qrQuery="" qr_info=""/>
+      <item query="mingzhong::天气::0" query_vocab="mingzhong::天气::0" data="" oriword="" classId="70090204" classNo="0" classTag="MULTIHIT.SOGOU.tianqishengfen70090204" vrType="1" rankType="0" expireTime="300" rankParams="0.000000;0.000000;0.000000;0.000000;701.000000" location="2" groupID="NULL" accurateType="0" accurateAttr="" tplId="70050101" sortRules="2::desc" sortPriority="0" vrSource="1" hitPriority="14" item_num="1" max_group_num="1" group_by="0" group_sort="" innerFixRank="NULL" abTest="0" shWhite="0" shBlack="0" isGps="" searchScope="" gpsItemNum="" pageTurn="0" sum_status="1" use_oriword="0" parentId="" index="" vr_level="0" innerSource="" is_business="0" isOrder="0" multiHitInfo="" externSource="" wap_abtest="111111" gpsErrorOp="1" timeInfo="" rankScore="0.000000" vrqrFlag="0" qrQuery="" qr_info=""/>
+      <item query="province::黑龙江::0||city::哈尔滨::0||mingzhong::天气::0" query_vocab="province::黑龙江::0||city::哈尔滨::0||mingzhong::天气::0" data="" oriword="" classId="70090206" classNo="0" classTag="MULTIHIT.SOGOU.tianqishengfen70090206" vrType="1" rankType="0" expireTime="300" rankParams="0.000000;0.000000;0.000000;0.000000;701.000000" location="0" groupID="NULL" accurateType="0" accurateAttr="" tplId="70050101" sortRules="" sortPriority="0" vrSource="1" hitPriority="12" item_num="1" max_group_num="1" group_by="0" group_sort="" innerFixRank="NULL" abTest="0" shWhite="0" shBlack="0" isGps="" searchScope="" gpsItemNum="" pageTurn="0" sum_status="1" use_oriword="0" parentId="" index="" vr_level="0" innerSource="" is_business="0" isOrder="0" multiHitInfo="" externSource="" wap_abtest="111111" gpsErrorOp="1" timeInfo="" rankScore="0.000000" vrqrFlag="0" qrQuery="" qr_info=""/>
+      <item query="province::黑龙江::0||city::哈尔滨::0" query_vocab="province::黑龙江::0||city::哈尔滨::0" data="" oriword="" classId="70090211" classNo="0" classTag="MULTIHIT.SOGOU.tianqishengfen70090211" vrType="1" rankType="0" expireTime="300" rankParams="0.000000;0.000000;0.000000;0.000000;701.000000" location="0" groupID="NULL" accurateType="0" accurateAttr="" tplId="70050101" sortRules="" sortPriority="0" vrSource="1" hitPriority="8" item_num="1" max_group_num="1" group_by="0" group_sort="" innerFixRank="NULL" abTest="0" shWhite="0" shBlack="0" isGps="" searchScope="" gpsItemNum="" pageTurn="0" sum_status="1" use_oriword="0" parentId="" index="" vr_level="0" innerSource="" is_business="0" isOrder="0" multiHitInfo="" externSource="" wap_abtest="111111" gpsErrorOp="1" timeInfo="" rankScore="0.000000" vrqrFlag="0" qrQuery="" qr_info=""/>
+      <item query="黑龙江哈尔滨天气" query_vocab="" data="黑龙江哈尔滨天气" oriword="" classId="11014701" classNo="0" classTag="INTERNAL.NEWS.TOPLIST" vrType="131" rankType="4" expireTime="3600" rankParams="0.000000;0.000000;0.000000;0.000000;804.000000" location="0" groupID="NULL" accurateType="0" accurateAttr="" tplId="10679" sortRules="NULL" sortPriority="0" vrSource="1" hitPriority="0" item_num="0" max_group_num="0" group_by="0" group_sort="0" innerFixRank="" abTest="0" shWhite="0" shBlack="0" isGps="" searchScope="" gpsItemNum="" pageTurn="0" sum_status="0" use_oriword="0" parentId="" index="" vr_level="0" is_business="0" externSource="" wap_abtest="111111" gpsErrorOp="1" timeInfo="" vrqrFlag="0" qrQuery="" qr_info=""/>
+    </vrList>
+    <voiceList>
+      <item classTag="21315801_0" vrid="21315801" query="黑龙江哈尔滨天气" answerTpl="现在的{key}是{time.time}" tplid="" priority="0" accur_tpl="" jingzhunId="" groupRank="" parse_type="0" newAcc="0" voiceType="000101" suggBriefAnswer="" partnerName=""/>
+      <item classTag="21315801_1" vrid="21315801" query="黑龙江哈尔滨天气" answerTpl="现在的{key}是{time.time}" tplid="" priority="0" accur_tpl="" jingzhunId="" groupRank="" parse_type="0" newAcc="0" voiceType="000101" suggBriefAnswer="" partnerName=""/>
+      <item classTag="21315801_2" vrid="21315801" query="黑龙江哈尔滨天气" answerTpl="现在的{key}是{time.time}" tplid="" priority="0" accur_tpl="" jingzhunId="" groupRank="" parse_type="0" newAcc="0" voiceType="000101" suggBriefAnswer="" partnerName=""/>
+      <item classTag="MULTIHIT.SOGOU.tianqishengfen70090204" vrid="70090200" query="黑龙江哈尔滨天气" answerTpl="{city}今天{day:2:1//low}度到{day:2:1//high}度,{day:2:1//description},{day:2:1//wind},{day:2:1//wind1},{?care?}" tplid="" priority="2" accur_tpl="" jingzhunId="" groupRank="" parse_type="0" newAcc="0" voiceType="000101" suggBriefAnswer="" partnerName=""/>
+      <item classTag="MULTIHIT.SOGOU.tianqishengfen70090206" vrid="70090200" query="黑龙江哈尔滨天气" answerTpl="{city}今天{day:2:1//low}度到{day:2:1//high}度,{day:2:1//description},{day:2:1//wind},{day:2:1//wind1},{?care?}" tplid="" priority="2" accur_tpl="" jingzhunId="" groupRank="" parse_type="0" newAcc="0" voiceType="000101" suggBriefAnswer="" partnerName=""/>
+      <item classTag="MULTIHIT.SOGOU.tianqishengfen70090211" vrid="70090200" query="黑龙江哈尔滨天气" answerTpl="{city}今天{day:2:1//low}度到{day:2:1//high}度,{day:2:1//description},{day:2:1//wind},{day:2:1//wind1},{?care?}" tplid="" priority="0" accur_tpl="" jingzhunId="" groupRank="" parse_type="0" newAcc="0" voiceType="000101" suggBriefAnswer="" partnerName=""/>
+    </voiceList>
+    <reformList>
+      <item className="emoji_lingxi" reform="黑龙江哈尔滨天气" final="1.000000" qofinal="0.000000" score="1.000000" lexion="1.000000" queryLog="1.000000" lmLog="1.000000" lmCorpus="1.000000" webSearch="0.000000" vsSearch="0.000000" intensity="0.000000" innerFixRank="" shWhite="0" shBlack="0" vr_level="0" isMatch="0" key="#_#" data="#_#" qmBlack="0" isBlack="1" blackLabel="INTERNAL.BIAOQING.FANLINGXI|" rankScore="0.000002" vrqrFlag="0" qrQuery="" qr_info=""/>
+      <item className="rcmdHotnews" reform="黑龙江哈尔滨天气" final="0.000000" qofinal="1.000000" score="1.000000" lexion="0.000000" queryLog="0.000000" lmLog="0.000000" lmCorpus="0.000000" webSearch="0.000000" vsSearch="0.000000" intensity="0.000000" innerFixRank="" shWhite="0" shBlack="0" vr_level="0" isMatch="0" key="" data="黑龙江哈尔滨天气" qmBlack="0" rankScore="0.000000" vrqrFlag="0" qrQuery="" qr_info=""/>
+      <item className="NEWSTOP" reform="黑龙江哈尔滨天气" final="0.000000" qofinal="0.000000" score="1.000000" lexion="0.000000" queryLog="0.000000" lmLog="0.000000" lmCorpus="0.000000" webSearch="0.000000" vsSearch="0.000000" intensity="0.000000" innerFixRank="NULL" shWhite="0" shBlack="0" vr_level="0" isMatch="0" key="黑龙江哈尔滨天气" data="黑龙江哈尔滨天气" qmBlack="0" vrqrFlag="0" qrQuery="" qr_info=""/>
+    </reformList>
+    <yunList/>
+    <termInfo/>
+    <timestamp>2019-12-09 15:31:31</timestamp>
+  </optimize>
+  <interaction/>
+
+</controlinfo><headinfo status="0" host="10.143.42.55" returnItemNum="1" totalItemNum="1" itemsOnPage="1" distributeFlow="0" is_business="0" weather_location="黑龙江&#9;哈尔滨"/>
+  <doc docId="3b86cec414e562f1-87d4c17e2632060e-f85ef099bf8a9ce2edaef9d33072b37d">
+    <headinfo vrType="70090206" dataType="XML" templateId="70050101" isIntegratedVR="0" isSuggestionVR="1" isSuggShortAnswerVR="0"/>
+    <rank ranks="" params="50000.00,100.00,50000.00,101.00,1.00,0.00"/>
+    <item>
+      <key><![CDATA[黑龙江哈尔滨天气]]></key>
+      <classid>70090206</classid>
+      <classtag>MULTIHIT.SOGOU.tianqishengfen70090206</classtag>
+      <tplid>70050101</tplid>
+      <display doc_num="1" total_num="1">
+        <url><![CDATA[http://wx.weather.com.cn/mweather/101050101.shtml#1]]></url>
+        <title annotation="1"><![CDATA[哈尔滨天气预报_一周天气预报_中国天气网]]></title>
+        <showurl><![CDATA[www.weather.com.cn]]></showurl>
+        <subitem>
+          <key><![CDATA[黑龙江_哈尔滨]]></key>
+          <subdisplay>
+            <title annotation="1"><![CDATA[哈尔滨天气预报_一周天气预报_中国天气网]]></title>
+            <url><![CDATA[http://wx.weather.com.cn/mweather/101050101.shtml#1]]></url>
+            <publish><![CDATA[北京时间09日11:00]]></publish>
+            <province index_level="1"><![CDATA[黑龙江]]></province>
+            <city index_level="1"><![CDATA[哈尔滨]]></city>
+            <xianzhen index_level="1"/>
+            <jingdian index_level="1"/>
+            <day>
+              <high><![CDATA[-4]]></high>
+              <low><![CDATA[-10]]></low>
+              <date><![CDATA[2019-12-08]]></date>
+              <month><![CDATA[12]]></month>
+              <days><![CDATA[8]]></days>
+              <week><![CDATA[周日]]></week>
+              <daydescription><![CDATA[晴]]></daydescription>
+              <nightdescription><![CDATA[多云]]></nightdescription>
+              <description><![CDATA[晴转多云]]></description>
+              <wind><![CDATA[东南风]]></wind>
+              <wind1><![CDATA[<3级]]></wind1>
+              <forbidden><![CDATA[]]></forbidden>
+            </day>
+            <day>
+              <high><![CDATA[0]]></high>
+              <low><![CDATA[-12]]></low>
+              <date><![CDATA[2019-12-09]]></date>
+              <month><![CDATA[12]]></month>
+              <days><![CDATA[9]]></days>
+              <week><![CDATA[周一]]></week>
+              <daydescription><![CDATA[阵雪]]></daydescription>
+              <nightdescription><![CDATA[多云]]></nightdescription>
+              <description><![CDATA[阵雪转多云]]></description>
+              <wind><![CDATA[南风]]></wind>
+              <wind1><![CDATA[3-4级]]></wind1>
+              <forbidden><![CDATA[]]></forbidden>
+            </day>
+            <day>
+              <high><![CDATA[-6]]></high>
+              <low><![CDATA[-15]]></low>
+              <date><![CDATA[2019-12-10]]></date>
+              <month><![CDATA[12]]></month>
+              <days><![CDATA[10]]></days>
+              <week><![CDATA[周二]]></week>
+              <daydescription><![CDATA[多云]]></daydescription>
+              <nightdescription><![CDATA[多云]]></nightdescription>
+              <description><![CDATA[多云]]></description>
+              <wind><![CDATA[东南风]]></wind>
+              <wind1><![CDATA[<3级]]></wind1>
+              <forbidden><![CDATA[]]></forbidden>
+            </day>
+            <day>
+              <high><![CDATA[-7]]></high>
+              <low><![CDATA[-17]]></low>
+              <date><![CDATA[2019-12-11]]></date>
+              <month><![CDATA[12]]></month>
+              <days><![CDATA[11]]></days>
+              <week><![CDATA[周三]]></week>
+              <daydescription><![CDATA[多云]]></daydescription>
+              <nightdescription><![CDATA[多云]]></nightdescription>
+              <description><![CDATA[多云]]></description>
+              <wind><![CDATA[北风]]></wind>
+              <wind1><![CDATA[<3级]]></wind1>
+              <forbidden><![CDATA[]]></forbidden>
+            </day>
+            <day>
+              <high><![CDATA[-6]]></high>
+              <low><![CDATA[-13]]></low>
+              <date><![CDATA[2019-12-12]]></date>
+              <month><![CDATA[12]]></month>
+              <days><![CDATA[12]]></days>
+              <week><![CDATA[周四]]></week>
+              <daydescription><![CDATA[晴]]></daydescription>
+              <nightdescription><![CDATA[晴]]></nightdescription>
+              <description><![CDATA[晴]]></description>
+              <wind><![CDATA[西风]]></wind>
+              <wind1><![CDATA[3-4级]]></wind1>
+              <forbidden><![CDATA[]]></forbidden>
+            </day>
+            <day>
+              <high><![CDATA[-4]]></high>
+              <low><![CDATA[-16]]></low>
+              <date><![CDATA[2019-12-13]]></date>
+              <month><![CDATA[12]]></month>
+              <days><![CDATA[13]]></days>
+              <week><![CDATA[周五]]></week>
+              <daydescription><![CDATA[多云]]></daydescription>
+              <nightdescription><![CDATA[多云]]></nightdescription>
+              <description><![CDATA[多云]]></description>
+              <wind><![CDATA[西南风]]></wind>
+              <wind1><![CDATA[3-4级]]></wind1>
+              <forbidden><![CDATA[]]></forbidden>
+            </day>
+            <city15days><![CDATA[http://m.weather.com.cn/mweather15d/101050101.shtml]]></city15days>
+            <sunrise><![CDATA[07:02]]></sunrise>
+            <sunset><![CDATA[15:49]]></sunset>
+            <hour1><![CDATA[http://m.weather.com.cn/mhours/101050101.shtml]]></hour1>
+            <showurl><![CDATA[www.weather.com.cn]]></showurl>
+            <sogouToday><![CDATA[${sogouToday}]]></sogouToday>
+            <source><![CDATA[中国气象局]]></source>
+            <mingzhong index_level="1"><![CDATA[天气]]></mingzhong>
+            <suggtoday><![CDATA[2019-12-09]]></suggtoday>
+            <suggnight><![CDATA[false]]></suggnight>
+            <suggicon><![CDATA[zhenxue]]></suggicon>
+            <suggiconNight><![CDATA[duoyun_n]]></suggiconNight>
+            <date1 index_level="1"><![CDATA[12月8日;12月8号;12月9日;12月9号;12月10日;12月10号;12月11日;12月11号;12月12日;12月12号;12月13日;12月13号;周日;周一;周二;周三;周四;周五;昨天;今天;明天;后天;大后天;大大后天]]></date1>
+            <date2 index_level="1"><![CDATA[12月9日;12月9号;周一;今天]]></date2>
+            <pcurl><![CDATA[http://www.weather.com.cn/weather/101050101.shtml]]></pcurl>
+            <pccity15days><![CDATA[http://www.weather.com.cn/weather15d/101050101.shtml]]></pccity15days>
+            <pchour3><![CDATA[http://www.weather.com.cn/weather/101050101.shtml#Hour3]]></pchour3>
+            <pcprovinceurl><![CDATA[http://www.weather.com.cn/html/province/heilongjiang.shtml]]></pcprovinceurl>
+            <rank sort="1"><![CDATA[1]]></rank>
+            <rank1 sort="2"><![CDATA[0]]></rank1>
+            <pkg_name/>
+          </subdisplay>
+          <location><![CDATA[黑龙江	哈尔滨]]></location>
+          <unique_url><![CDATA[70090200#%E9%BB%91%E9%BE%99%E6%B1%9F_%E5%93%88%E5%B0%94%E6%BB%A8#%E9%BB%91%E9%BE%99%E6%B1%9F%09%E5%93%88%E5%B0%94%E6%BB%A8#6682]]></unique_url>
+          <source>external</source>
+          <fetch_time>Mon Dec  9 15:33:18 2019</fetch_time>
+          <expire_time>Mon Dec  9 15:38:20 2019</expire_time>
+          <classid>70090200</classid>
+          <classtag>MULTIHIT.SOGOU.tianqishengfen</classtag>
+          <param1>50000</param1>
+          <param2>100</param2>
+          <param3>50000</param3>
+          <param4>101</param4>
+          <param5>1</param5>
+          <tplid>70090200</tplid>
+          <status>APPEND</status>
+          <update_type>no_update</update_type>
+          <objid>70b7ef6ab13d7fb7ef6ab177fbae16db767b6361e1bbb6ab</objid>
+          <extend_content><![CDATA[]]></extend_content>
+          <pc_channel><![CDATA[all]]></pc_channel>
+          <wap_channel><![CDATA[all]]></wap_channel>
+          <query_from index_level="1">web;wap;suggestion</query_from>
+          <dc_url><![CDATA[pm::https://www.sogou.com/reventondc/transform?&key=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%93%88%E5%B0%94%E6%BB%A8pm&uuid=&vrid=70090200&type=2&objid=70090200&charset=utf-8&url=https%3A%2F%2Fm.sogou.com%2Freventondc%2Finner%2Fvi%3Fop%3D13%26query%3D%25%45%39%25%42%42%25%39%31%25%45%39%25%42%45%25%39%39%25%45%36%25%42%31%25%39%46%25%30%39%25%45%35%25%39%33%25%38%38%25%45%35%25%42%30%25%39%34%25%45%36%25%42%42%25%41%38&queryfrom=openhub#*#warning::https://www.sogou.com/reventondc/transform?&key=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%93%88%E5%B0%94%E6%BB%A8warning&uuid=&vrid=70090200&type=2&objid=70090200&charset=utf-8&url=https%3A%2F%2Fwww.sogou.com%2Freventondc%2Finner%2Fvi%3Fop%3D9%26query%3D%25%45%39%25%42%42%25%39%31%25%45%39%25%42%45%25%39%39%25%45%36%25%42%31%25%39%46%25%30%39%25%45%35%25%39%33%25%38%38%25%45%35%25%42%30%25%39%34%25%45%36%25%42%42%25%41%38&queryfrom=openhub#*#weather::https://www.sogou.com/reventondc/transform?&key=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%93%88%E5%B0%94%E6%BB%A8weather&uuid=&vrid=70090200&type=2&objid=70090200&charset=utf-8&url=https%3A%2F%2Fwww.sogou.com%2Freventondc%2Finner%2Fvi%3Fop%3D8%26query%3D%25%45%39%25%42%42%25%39%31%25%45%39%25%42%45%25%39%39%25%45%36%25%42%31%25%39%46%25%30%39%25%45%35%25%39%33%25%38%38%25%45%35%25%42%30%25%39%34%25%45%36%25%42%42%25%41%38&queryfrom=openhub]]></dc_url>
+          <data_source_priority sort="ss">1</data_source_priority>
+        </subitem>
+        <annotitle>哈尔滨天气预报_一周天气预报_中国天气网</annotitle>
+      </display>
+      <requestprotocol><![CDATA[http]]></requestprotocol>
+      <isvoc><![CDATA[0]]></isvoc>
+      <encodedquery><![CDATA[黑龙江哈尔滨天气]]></encodedquery>
+      <voiceinfo voice_accur_tpl="" voice_answerTpl="{city}今天{day:2:1//low}度到{day:2:1//high}度,{day:2:1//description},{day:2:1//wind},{day:2:1//wind1},{?care?}" voice_classTag="MULTIHIT.SOGOU.tianqishengfen70090206" voice_groupRank="" voice_jingzhunId="" voice_newAcc="0" voice_parse_type="0" voice_partnerName="" voice_priority="2" voice_query="黑龙江哈尔滨天气" voice_suggBriefAnswer="" voice_tplid="" voice_voiceType="000101" voice_vrQuery="黑龙江哈尔滨天气" voice_vrid="70090200"><![CDATA[哈尔滨今天-12度到0度,阵雪转多云,南风,3-4级,{?care?}]]></voiceinfo>
+      <qoinfo abTest="0" accurateAttr="" accurateType="0" classId="70090206" classNo="0" classQuery="province::黑龙江::0||city::哈尔滨::0||mingzhong::天气::0" classTag="MULTIHIT.SOGOU.tianqishengfen70090206" data="" ec_host="vrmhiq04.web.1.tc.ted" expireTime="300" externSource="" gpsErrorOp="1" gpsItemNum="" groupID="NULL" group_by="0" group_sort="" hitPriority="12" index="" innerFixRank="NULL" innerSource="" isGps="" isOrder="0" is_business="0" item_num="1" location="0" max_group_num="1" multiHitInfo="" oriword="" pageTurn="0" parentId="" parse_type="" query="province::黑龙江::0||city::哈尔滨::0||mingzhong::天气::0" query_vocab="province::黑龙江::0||city::哈尔滨::0||mingzhong::天气::0" rankParams="0.000000;0.000000;0.000000;0.000000;701.000000" rankScore="0.000000" rankType="0" rawData="" searchScope="" shBlack="0" shWhite="0" sortPriority="0" sortRules="" subtype="" sum_status="1" timeInfo="" tplId="70050101" use_oriword="0" voice_accur_tpl="" voice_answerTpl="{city}今天{day:2:1//low}度到{day:2:1//high}度,{day:2:1//description},{day:2:1//wind},{day:2:1//wind1},{?care?}" voice_classTag="MULTIHIT.SOGOU.tianqishengfen70090206" voice_groupRank="" voice_jingzhunId="" voice_newAcc="0" voice_parse_type="0" voice_partnerName="" voice_priority="2" voice_query="黑龙江哈尔滨天气" voice_suggBriefAnswer="" voice_tplid="" voice_voiceType="000101" voice_vrQuery="黑龙江哈尔滨天气" voice_vrid="70090200" vrData="" vrQuery="province::黑龙江::0||city::哈尔滨::0||mingzhong::天气::0" vrQuery_sub0="province::黑龙江::0||city::哈尔滨::0||mingzhong::天气::0" vrSource="1" vrType="1" vr_level="0" vrqrFlag="0" wap_abtest="111111" userArea="" oriQuery="" queryNoToLowerCase="" locationStr="黑龙江省&#9;哈尔滨市" sh_abtest=""/>
+      <pid/>
+      <userAgent><![CDATA[]]></userAgent>
+      <vrUserAgentType><![CDATA[]]></vrUserAgentType>
+      <vrType>1</vrType>
+      <annoKey><![CDATA[(黑龙江)(哈尔滨)(天气)]]></annoKey>
+      <qcquery><![CDATA[黑龙江哈尔滨天气]]></qcquery>
+      <istoutiao/>
+      <crawlTime><![CDATA[2019-12-09 15:44:24]]></crawlTime>
+      <classtag>MULTIHIT.SOGOU.tianqishengfen70090206</classtag>
+      <classid>70090206</classid>
+      <vrChannel><![CDATA[]]></vrChannel>
+      <zanurl>http://vr/70090206/%BA%DA%C1%FA%BD%AD_%B9%FE%B6%FB%B1%F5</zanurl>
+      <zandocid>8295c40bd8d556e5-d40d6a3d4cf177ed-70eb1e8877b3107a1ca8b3c6718daa31</zandocid>
+      <dc_data_warning><![CDATA[%28%7B%22%77%22%3A%20%5B%5D%7D%29]]></dc_data_warning>
+      <dc_data_weather><![CDATA[%28%7B%22%6C%22%3A%20%7B%22%70%72%6F%76%69%6E%63%65%22%3A%20%22%E9%BB%91%E9%BE%99%E6%B1%9F%22%2C%20%22%63%69%74%79%22%3A%20%22%E5%93%88%E5%B0%94%E6%BB%A8%22%2C%20%22%64%69%73%74%72%69%63%74%22%3A%20%22%22%2C%20%22%6C%31%30%22%3A%20%22%32%30%31%39%31%32%30%39%31%35%30%37%22%2C%20%22%6C%36%22%3A%20%22%30%2E%30%22%2C%20%22%6C%37%22%3A%20%22%31%35%3A%30%37%22%2C%20%22%6C%34%22%3A%20%22%35%22%2C%20%22%6C%35%22%3A%20%22%30%32%22%2C%20%22%6C%32%22%3A%20%22%37%39%22%2C%20%22%6C%33%22%3A%20%22%33%22%2C%20%22%6C%31%22%3A%20%22%2D%32%22%2C%20%22%64%61%74%65%22%3A%20%22%32%30%31%39%2D%31%32%2D%30%39%22%7D%7D%29]]></dc_data_weather>
+    </item>
+  </doc>
+</DOCUMENT>
+��}��      ]��X]��XAg�       �    :https://www.sogou.com/tworeq?queryString=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%93%88%E5%B0%94%E6%BB%A8%E5%A4%A9%E6%B0%94&ie=utf8&reqClassids=70090205;70090206&queryFrom=pc&vrForQc=false&dataPlatformSource=weather_card&retType=xml necko:classified 1 security-info FnhllAKWRHGAlo+ESXykKAAAAAAAAAAAwAAAAAAAAEaphjojH6pBabDSgSnsfLHeAAQAAgAAAAAAAAAAAAAAAAAAAAAB4vFIJp5wRkeyPxAQ9RJGKPqbqVvKO0mKuIl8ec8o/uhmCjImkVxP+7sgiYWmMt8FvcOXmlQiTNWFiWlrbpbqgwAAAAAAAAgVMIIIETCCBvmgAwIBAgIMUMRH7vkfEcQEGb2nMA0GCSqGSIb3DQEBCwUAMGYxCzAJBgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMTwwOgYDVQQDEzNHbG9iYWxTaWduIE9yZ2FuaXphdGlvbiBWYWxpZGF0aW9uIENBIC0gU0hBMjU2IC0gRzIwHhcNMTkwNTEwMDI0MzMwWhcNMjAwNjIxMDUyNzQxWjCBsDELMAkGA1UEBhMCQ04xEDAOBgNVBAgTB0JlaWppbmcxEDAOBgNVBAcTB0JlaWppbmcxLjAsBgNVBAsTJVRlY2hub2xvZ3kgYW5kIEVuZ2luZWVyaW5nIERlcGFydG1lbnQxNzA1BgNVBAoTLkJlaWppbmcgU29nb3UgVGVjaG5vbG9neSBEZXZlbG9wbWVudCBDby4sIEx0ZC4xFDASBgNVBAMMCyouc29nb3UuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtVcTnLQXg+Q7rEC/uPACigzekFgDpC8WGKRsQqTdUPcfVeu3e2BmbTQYEKMIjNET/AflwDICR6DXNkL6MMSgcnMPrsXEqAzBVLHzXuDEKyYAORaEWVYXBNWRcBkZ3+nLZqijINUGS554TeQzbL40nmqucmP/Pcjjbxa3zuxjYY8u64W3zjtRQeQlSXkM+s0ig4VpQ7j2Q4QN/t3m8Wfoow9XA6SUF+fr7da6Mh8QVCjmj9gek76v7K7Rtr7fjuB+BLJsBD9VJe6IMb1MmFzuBCJeqHKfvkOrKicc/yVBIjgZq9l0urElrGgUuKjB7m/zgvSWGEJYjpiNCo/FFWuWQQIDAQABo4IEcjCCBG4wDgYDVR0PAQH/BAQDAgWgMIGgBggrBgEFBQcBAQSBkzCBkDBNBggrBgEFBQcwAoZBaHR0cDovL3NlY3VyZS5nbG9iYWxzaWduLmNvbS9jYWNlcnQvZ3Nvcmdhbml6YXRpb252YWxzaGEyZzJyMS5jcnQwPwYIKwYBBQUHMAGGM2h0dHA6Ly9vY3NwMi5nbG9iYWxzaWduLmNvbS9nc29yZ2FuaXphdGlvbnZhbHNoYTJnMjBWBgNVHSAETzBNMEEGCSsGAQQBoDIBFDA0MDIGCCsGAQUFBwIBFiZodHRwczovL3d3dy5nbG9iYWxzaWduLmNvbS9yZXBvc2l0b3J5LzAIBgZngQwBAgIwCQYDVR0TBAIwADCCAe4GA1UdEQSCAeUwggHhggsqLnNvZ291LmNvbYIPKi5wNHAuc29nb3UuY29tgg8qLnBheS5zb2dvdS5jb22CECouZXByby5zb2dvdS5jb22CEiouc2hvdWppLnNvZ291LmNvbYIaKi5wcm9maWxlLnBpbnlpbi5zb2dvdS5jb22CDyoubXNlLnNvZ291LmNvbYIPKi5tYXAuc29nb3UuY29tghEqLmhhb21hLnNvZ291LmNvbYIOKi5zb2dvdWNkbi5jb22CEyouYWNjb3VudC5zb2dvdS5jb22CDiouZC5nbzJtYXAuY29tgg4qLmllLnNvZ291LmNvbYIMKi5nbzJtYXAuY29tggoqLnNvZ28uY29tghAqLmhhb21hLnNvZ28uY29tghEqLnNob3VqaS5zb2dvLmNvbYIQKi5jYWNoZS5zb2dvLmNvbYIOKi5wNHAuc29nby5jb22CDyouZXByby5zb2dvLmNvbYIOKi5tYXAuc29nby5jb22CESouc3BlZWNoLnNvZ28uY29tgg4qLm1zZS5zb2dvLmNvbYINKi5pZS5zb2dvLmNvbYISKi5hY2NvdW50LnNvZ28uY29tghIqLnpoaXlpbi5zb2dvdS5jb22CDSouZS5zb2dvdS5jb22CCXNvZ291LmNvbTAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwHwYDVR0jBBgwFoAUlt5h8b0cFilTHMDMfTuDAEDmGnwwHQYDVR0OBBYEFC7HaOZnZcBSdNxR3kR3kyzXXEJpMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDvAHUA7ku9t3XOYLrhQmkfq+GeZqMPfl+wctiDAMR7iXqo/csAAAFqn5/YJgAABAMARjBEAiA/LPHbRZMmDlvRkm5c+G+Zy6yl6FvNTEObVoz0P5jq0gIgUq1eCpMrMYcvsX9GJCGMMz2AkXF4tNsjvRh6vkkpihYAdgCHdb/nWXz4jEOZX73zbv9WjUdWNv9KtWDBtOr/XqCDDwAAAWqfn9fUAAAEAwBHMEUCIQDM6SrXhqFaiRwUAL6HWaWaVB8vWQrx5RfWELmfugklJQIgVvzJkRVkH3OnAAknZdYFUK3c7gOU7GidaTWgVUV45qowDQYJKoZIhvcNAQELBQADggEBABbucBffA07m02voPLAr3zNQCeMuBndRKpr9nwpL3ej2FoC+Ay3ewpX6ZvQ1LGH9EICsWcZW2A/3yafG661Wgx5WppFqncR4KX/RGU0xon4t4uYu3NpA8QehP3kKRp0BgvixAa/ClvXa5Yq+5NajnWZKfI7dLENp6HIFork2O7XNbIQ8u83mpapvgKUb1/iK1phxd6zO+JkFWXz1l9yZqXHGHwpib7h044dPsDfOf7zo/xxZTvJWiQO3ZLz0YVhHw8ujU24M/GJhjcVqfEwOmYR31g6/qf77PVbJNBAD0WKICX0hKGqHffz9upM2nWaChwEVKHuSwmvhf0hU5PIwEE/ALwADAAAAAAEBAAA= request-method GET response-head HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 09 Dec 2019 07:44:24 GMT
+Content-Length: 26315
+UUID: 25511461-43c7-4ad9-9177-6f8f4320c394
+   f�

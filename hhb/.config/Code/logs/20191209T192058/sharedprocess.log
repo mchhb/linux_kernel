@@ -1,0 +1,3 @@
+[2019-12-09 19:21:04.445] [sharedprocess] [info] main {"machineId":"f93d9e66b9a915be4ac6bfcbb74bd2739cc4038d412f4efce8f858cd034803f7","windowId":3}
+[2019-12-09 19:21:44.403] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-12-09 19:21:44.404] [sharedprocess] [info] Skipping directory 30d0a9efdef99b761ea9557efbc38126.zh-cn. Language pack still in use.

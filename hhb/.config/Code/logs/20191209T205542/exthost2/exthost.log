@@ -1,0 +1,20 @@
+[2019-12-09 20:55:54.445] [exthost] [info] extension host started
+[2019-12-09 20:55:54.887] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2019-12-09 20:55:54.890] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-12-09 20:55:54.925] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2019-12-09 20:55:54.925] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-12-09 20:55:55.093] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2019-12-09 20:55:55.100] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2019-12-09 20:55:55.212] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2019-12-09 20:55:55.225] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-12-09 20:55:55.235] [exthost] [info] ExtensionService#_doActivateExtension 2gua.rainbow-brackets {"startup":true,"extensionId":{"value":"2gua.rainbow-brackets","_lower":"2gua.rainbow-brackets"},"activationEvent":"*"}
+[2019-12-09 20:55:55.235] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/hhb/.vscode/extensions/2gua.rainbow-brackets-0.0.6/out/src/extension
+[2019-12-09 20:55:55.236] [exthost] [info] ExtensionService#_doActivateExtension bukas.GBKtoUTF8 {"startup":true,"extensionId":{"value":"bukas.GBKtoUTF8","_lower":"bukas.gbktoutf8"},"activationEvent":"*"}
+[2019-12-09 20:55:55.239] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/hhb/.vscode/extensions/bukas.gbktoutf8-0.0.2/out/src/extension
+[2019-12-09 20:55:55.255] [exthost] [info] ExtensionService#_doActivateExtension in4margaret.compareit {"startup":true,"extensionId":{"value":"in4margaret.compareit","_lower":"in4margaret.compareit"},"activationEvent":"*"}
+[2019-12-09 20:55:55.255] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/hhb/.vscode/extensions/in4margaret.compareit-0.0.2/out/extension
+[2019-12-09 20:55:55.406] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"extensionId":{"value":"vscode-icons-team.vscode-icons","_lower":"vscode-icons-team.vscode-icons"},"activationEvent":"*"}
+[2019-12-09 20:55:55.428] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/hhb/.vscode/extensions/vscode-icons-team.vscode-icons-9.6.0/dist/src/vscode-icons.bundle.js
+[2019-12-09 20:55:55.760] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":true,"extensionId":{"value":"ms-vscode.cpptools","_lower":"ms-vscode.cpptools"},"activationEvent":"workspaceContains:/.vscode/c_cpp_properties.json"}
+[2019-12-09 20:55:55.767] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/hhb/.vscode/extensions/ms-vscode.cpptools-0.26.2/dist/main
+[2019-12-09 20:55:56.468] [exthost] [info] eager extensions activated

@@ -1,0 +1,224 @@
+# 这个 viminfo 文件是由 Vim 7.4 所产生。
+# 如果想要自行修改请特别小心！
+
+# 文件被写的时候 ‘encoding’ 的值
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# 上个 Search 图案：
+~MSle0~/bin
+
+# 命令行 历史记录 (从新到旧)：
+:wq
+:ew
+:q!
+
+# 查找字符串 历史记录 (从新到旧)：
+?/bin/sh
+?/write_enable
+?/local_enable
+?/share
+?/security
+?/secuity
+
+# 表达式 历史记录 (从新到旧)：
+
+# 输入行 历史记录 (从新到旧)：
+
+# 输入行 历史记录 (从新到旧)：
+
+# 寄存器:
+""-	CHAR	0
+	#
+
+# 文件标记:
+'0  1  0  /opt/Qt5.5.1/Tools/QtCreator/bin/qtcreator.sh
+'1  5  2  /etc/init.d/rcS
+'2  4  21  /etc/init.d/rcS
+'3  1  8  /etc/init.d/rcS
+'4  3  0  /usr/lib/x86_64-linux-gnu/qt-default/qtchooser/default.conf
+'5  2  0  /usr/lib/x86_64-linux-gnu/qt-default/qtchooser/default.conf
+'6  4  24  /usr/lib/x86_64-linux-gnu/qt-default/qtchooser/default.conf
+'7  32  0  /etc/profile
+'8  6  21  /etc/default/tftpd-hpa
+'9  12  12  /etc/xinetd.d/tftp
+
+# 跳转列表 (从新到旧):
+-'  1  0  /opt/Qt5.5.1/Tools/QtCreator/bin/qtcreator.sh
+-'  5  2  /etc/init.d/rcS
+-'  1  0  /etc/init.d/rcS
+-'  4  21  /etc/init.d/rcS
+-'  3  0  /usr/lib/x86_64-linux-gnu/qt-default/qtchooser/default.conf
+-'  1  0  /usr/lib/x86_64-linux-gnu/qt-default/qtchooser/default.conf
+-'  2  0  /usr/lib/x86_64-linux-gnu/qt-default/qtchooser/default.conf
+-'  4  24  /usr/lib/x86_64-linux-gnu/qt-default/qtchooser/default.conf
+-'  32  0  /etc/profile
+-'  1  0  /etc/profile
+-'  6  21  /etc/default/tftpd-hpa
+-'  1  0  /etc/default/tftpd-hpa
+-'  12  12  /etc/xinetd.d/tftp
+-'  1  0  /etc/xinetd.d/tftp
+-'  11  11  /etc/hosts
+-'  1  0  /etc/hosts
+-'  10  0  /etc/hosts
+-'  1  0  /etc/exports
+-'  12  43  /etc/exports
+-'  26  0  /etc/vsftpd.conf
+-'  42  12  /etc/vsftpd.conf
+-'  29  1  /etc/vsftpd.conf
+-'  1  0  /etc/vsftpd.conf
+-'  271  15  /etc/samba/smb.conf
+-'  178  12  /etc/samba/smb.conf
+-'  147  20  /etc/samba/smb.conf
+-'  132  24  /etc/samba/smb.conf
+-'  80  23  /etc/samba/smb.conf
+-'  1  0  /etc/samba/smb.conf
+-'  183  0  /etc/samba/smb.conf
+-'  258  30  /etc/samba/smb.conf
+-'  204  45  /etc/samba/smb.conf
+-'  200  40  /etc/samba/smb.conf
+-'  259  30  /etc/samba/smb.conf
+-'  205  45  /etc/samba/smb.conf
+-'  201  40  /etc/samba/smb.conf
+-'  271  15  /etc/samba/smb.conf
+-'  178  12  /etc/samba/smb.conf
+-'  147  20  /etc/samba/smb.conf
+-'  132  24  /etc/samba/smb.conf
+-'  80  23  /etc/samba/smb.conf
+-'  1  0  /etc/samba/smb.conf
+-'  183  0  /etc/samba/smb.conf
+-'  258  30  /etc/samba/smb.conf
+-'  204  45  /etc/samba/smb.conf
+-'  200  40  /etc/samba/smb.conf
+-'  259  30  /etc/samba/smb.conf
+-'  205  45  /etc/samba/smb.conf
+-'  201  40  /etc/samba/smb.conf
+-'  26  0  /etc/vsftpd.conf
+-'  42  12  /etc/vsftpd.conf
+-'  29  1  /etc/vsftpd.conf
+-'  1  0  /etc/vsftpd.conf
+-'  271  15  /etc/samba/smb.conf
+-'  178  12  /etc/samba/smb.conf
+-'  147  20  /etc/samba/smb.conf
+-'  132  24  /etc/samba/smb.conf
+-'  80  23  /etc/samba/smb.conf
+-'  1  0  /etc/samba/smb.conf
+-'  183  0  /etc/samba/smb.conf
+-'  258  30  /etc/samba/smb.conf
+-'  204  45  /etc/samba/smb.conf
+-'  200  40  /etc/samba/smb.conf
+-'  259  30  /etc/samba/smb.conf
+-'  205  45  /etc/samba/smb.conf
+-'  201  40  /etc/samba/smb.conf
+-'  271  15  /etc/samba/smb.conf
+-'  178  12  /etc/samba/smb.conf
+-'  147  20  /etc/samba/smb.conf
+-'  132  24  /etc/samba/smb.conf
+-'  80  23  /etc/samba/smb.conf
+-'  1  0  /etc/samba/smb.conf
+-'  183  0  /etc/samba/smb.conf
+-'  258  30  /etc/samba/smb.conf
+-'  204  45  /etc/samba/smb.conf
+-'  200  40  /etc/samba/smb.conf
+-'  259  30  /etc/samba/smb.conf
+-'  205  45  /etc/samba/smb.conf
+-'  201  40  /etc/samba/smb.conf
+-'  26  0  /etc/vsftpd.conf
+-'  42  12  /etc/vsftpd.conf
+-'  29  1  /etc/vsftpd.conf
+-'  1  0  /etc/vsftpd.conf
+-'  271  15  /etc/samba/smb.conf
+-'  178  12  /etc/samba/smb.conf
+-'  147  20  /etc/samba/smb.conf
+-'  132  24  /etc/samba/smb.conf
+-'  80  23  /etc/samba/smb.conf
+-'  1  0  /etc/samba/smb.conf
+-'  183  0  /etc/samba/smb.conf
+-'  258  30  /etc/samba/smb.conf
+-'  204  45  /etc/samba/smb.conf
+-'  200  40  /etc/samba/smb.conf
+-'  259  30  /etc/samba/smb.conf
+-'  205  45  /etc/samba/smb.conf
+-'  201  40  /etc/samba/smb.conf
+-'  271  15  /etc/samba/smb.conf
+
+# 文件内的标记历史记录 (从新到旧):
+
+> /opt/Qt5.5.1/Tools/QtCreator/bin/qtcreator.sh
+	"	1	0
+	^	1	86
+	.	1	85
+	+	1	85
+
+> /etc/init.d/rcS
+	"	5	2
+	^	5	3
+	.	5	2
+	+	1	33
+	+	4	218
+	+	4	1
+	+	1	8
+	+	4	22
+	+	5	2
+
+> /usr/lib/x86_64-linux-gnu/qt-default/qtchooser/default.conf
+	"	3	0
+	^	2	1
+	.	2	0
+	+	2	25
+	+	4	25
+	+	1	0
+	+	2	0
+
+> /etc/profile
+	"	32	0
+	^	32	88
+	.	32	88
+	+	32	88
+
+> /etc/default/tftpd-hpa
+	"	6	21
+	^	6	22
+	.	6	21
+	+	4	30
+	+	6	21
+
+> /etc/xinetd.d/tftp
+	"	12	12
+	^	12	13
+	.	12	12
+	+	1	11
+	+	2	1
+	+	12	12
+
+> /etc/hosts
+	"	11	11
+	^	11	12
+	.	11	11
+	+	11	11
+
+> /etc/exports
+	"	1	0
+	^	12	44
+	.	12	43
+	+	12	43
+
+> /etc/vsftpd.conf
+	"	26	0
+	^	26	0
+	.	29	0
+	+	29	0
+
+> /etc/samba/smb.conf
+	"	271	15
+	^	271	16
+	.	271	15
+	+	258	39
+	+	259	0
+	+	183	0
+	+	260	7
+	+	267	0
+	+	266	4
+	+	271	15

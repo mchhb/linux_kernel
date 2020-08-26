@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>Resource/icons/close.png</file>
+        <file>Resource/icons/close_hover.png</file>
+    </qresource>
+</RCC>

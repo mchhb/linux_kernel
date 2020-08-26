@@ -1,0 +1,136 @@
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 165 requests (165 known processed) with 0 events remaining.
+
+(bamfdaemon:1871): Gdk-WARNING **: bamfdaemon: Fatal IO error 11 (资源暂时不可用) on X server :0.
+
+
+(notify-osd:2003): Gdk-WARNING **: notify-osd: Fatal IO error 11 (资源暂时不可用) on X server :0.
+
+
+(indicator-keyboard-service:2027): Gdk-WARNING **: indicator-keyboard-service: Fatal IO error 11 (资源暂时不可用) on X server :0.
+
+
+(zeitgeist-daemon:2354): GLib-GIO-WARNING **: Error releasing name org.gnome.zeitgeist.Engine: The connection is closed
+[31m[00:45:34.228331 WARNING][0m zeitgeist-daemon.vala:449: The connection is closed
+Activating service name='org.ayatana.bamf'
+Activating service name='org.a11y.Bus'
+Successfully activated service 'org.a11y.Bus'
+Activating service name='org.a11y.atspi.Registry'
+Successfully activated service 'org.a11y.atspi.Registry'
+Activating service name='org.gtk.vfs.Daemon'
+
+** (at-spi2-registryd:1837): WARNING **: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+** (at-spi2-registryd:1837): WARNING **: Unable to register client with session manager
+Successfully activated service 'org.gtk.vfs.Daemon'
+Activating service name='org.freedesktop.Notifications'
+Successfully activated service 'org.ayatana.bamf'
+Activating service name='com.canonical.indicator.keyboard'
+Activating service name='org.gnome.evolution.dataserver.Sources2'
+Activating service name='org.gnome.ScreenSaver'
+Activating service name='ca.desrt.dconf'
+Successfully activated service 'ca.desrt.dconf'
+Successfully activated service 'org.freedesktop.Notifications'
+module-cache-reaper-Message: Scanning data directories
+module-cache-reaper-Message: Scanning cache directories
+Successfully activated service 'org.gnome.evolution.dataserver.Sources2'
+Activating service name='org.gnome.evolution.dataserver.Calendar4'
+Successfully activated service 'org.gnome.ScreenSaver'
+
+(indicator-keyboard-service:1944): IBUS-CRITICAL **: ibus_bus_call_sync: assertion 'ibus_bus_is_connected (bus)' failed
+
+(indicator-keyboard-service:1944): IBUS-CRITICAL **: ibus_bus_call_sync: assertion 'ibus_bus_is_connected (bus)' failed
+
+(indicator-keyboard-service:1944): IBUS-CRITICAL **: ibus_bus_call_sync: assertion 'ibus_bus_is_connected (bus)' failed
+Successfully activated service 'com.canonical.indicator.keyboard'
+Activating service name='org.gtk.Private.UDisks2VolumeMonitor'
+Successfully activated service 'org.gnome.evolution.dataserver.Calendar4'
+Successfully activated service 'org.gtk.Private.UDisks2VolumeMonitor'
+Activating service name='org.gtk.Private.GPhoto2VolumeMonitor'
+Successfully activated service 'org.gtk.Private.GPhoto2VolumeMonitor'
+Activating service name='org.gtk.Private.AfcVolumeMonitor'
+Successfully activated service 'org.gtk.Private.AfcVolumeMonitor'
+Activating service name='org.gtk.Private.MTPVolumeMonitor'
+Successfully activated service 'org.gtk.Private.MTPVolumeMonitor'
+Activating service name='org.gnome.GConf'
+Successfully activated service 'org.gnome.GConf'
+** Message: Lost the name, shutting down.
+Activating service name='org.freedesktop.Telepathy.AccountManager'
+Successfully activated service 'org.freedesktop.Telepathy.AccountManager'
+Activating service name='com.canonical.indicators.webcredentials'
+Successfully activated service 'com.canonical.indicators.webcredentials'
+Activating service name='org.gnome.zeitgeist.Engine'
+Activating service name='org.gnome.zeitgeist.SimpleIndexer'
+Successfully activated service 'org.gnome.zeitgeist.Engine'
+Successfully activated service 'org.gnome.zeitgeist.SimpleIndexer'
+
+** (zeitgeist-datahub:2287): WARNING **: zeitgeist-datahub.vala:229: Unable to get name "org.gnome.zeitgeist.datahub" on the bus!
+
+(bamfdaemon:1802): Gdk-WARNING **: bamfdaemon: Fatal IO error 11 (资源暂时不可用) on X server :0.
+
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 213 requests (213 known processed) with 0 events remaining.
+
+(indicator-keyboard-service:1944): Gdk-WARNING **: indicator-keyboard-service: Fatal IO error 11 (资源暂时不可用) on X server :0.
+
+
+(notify-osd:1937): Gdk-WARNING **: notify-osd: Fatal IO error 11 (资源暂时不可用) on X server :0.
+
+Activating service name='org.ayatana.bamf'
+Activating service name='org.a11y.Bus'
+Successfully activated service 'org.a11y.Bus'
+Activating service name='org.a11y.atspi.Registry'
+Successfully activated service 'org.a11y.atspi.Registry'
+Activating service name='org.gtk.vfs.Daemon'
+
+** (at-spi2-registryd:2005): WARNING **: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+** (at-spi2-registryd:2005): WARNING **: Unable to register client with session manager
+Successfully activated service 'org.gtk.vfs.Daemon'
+Successfully activated service 'org.ayatana.bamf'
+Activating service name='org.freedesktop.Notifications'
+Successfully activated service 'org.freedesktop.Notifications'
+Activating service name='com.canonical.indicator.keyboard'
+Activating service name='ca.desrt.dconf'
+Activating service name='org.gnome.ScreenSaver'
+Activating service name='org.gnome.evolution.dataserver.Sources2'
+Successfully activated service 'ca.desrt.dconf'
+module-cache-reaper-Message: Scanning data directories
+module-cache-reaper-Message: Scanning cache directories
+Successfully activated service 'org.gnome.evolution.dataserver.Sources2'
+Activating service name='org.gnome.evolution.dataserver.Calendar4'
+Successfully activated service 'org.gnome.ScreenSaver'
+
+(indicator-keyboard-service:2124): IBUS-CRITICAL **: ibus_bus_call_sync: assertion 'ibus_bus_is_connected (bus)' failed
+
+(indicator-keyboard-service:2124): IBUS-CRITICAL **: ibus_bus_call_sync: assertion 'ibus_bus_is_connected (bus)' failed
+
+(indicator-keyboard-service:2124): IBUS-CRITICAL **: ibus_bus_call_sync: assertion 'ibus_bus_is_connected (bus)' failed
+Successfully activated service 'com.canonical.indicator.keyboard'
+Successfully activated service 'org.gnome.evolution.dataserver.Calendar4'
+Activating service name='org.gtk.Private.UDisks2VolumeMonitor'
+Activating service name='org.gnome.GConf'
+Successfully activated service 'org.gnome.GConf'
+Successfully activated service 'org.gtk.Private.UDisks2VolumeMonitor'
+Activating service name='org.gtk.Private.GPhoto2VolumeMonitor'
+Successfully activated service 'org.gtk.Private.GPhoto2VolumeMonitor'
+Activating service name='org.gtk.Private.AfcVolumeMonitor'
+Successfully activated service 'org.gtk.Private.AfcVolumeMonitor'
+Activating service name='org.gtk.Private.MTPVolumeMonitor'
+Successfully activated service 'org.gtk.Private.MTPVolumeMonitor'
+** Message: Lost the name, shutting down.
+Activating service name='org.freedesktop.Telepathy.AccountManager'
+Successfully activated service 'org.freedesktop.Telepathy.AccountManager'
+Activating service name='com.canonical.indicators.webcredentials'
+Successfully activated service 'com.canonical.indicators.webcredentials'
+Activating service name='org.gnome.zeitgeist.Engine'
+Activating service name='org.gnome.zeitgeist.SimpleIndexer'
+Successfully activated service 'org.gnome.zeitgeist.Engine'
+Successfully activated service 'org.gnome.zeitgeist.SimpleIndexer'
+
+** (zeitgeist-datahub:2482): WARNING **: zeitgeist-datahub.vala:229: Unable to get name "org.gnome.zeitgeist.datahub" on the bus!
+Activating service name='com.ubuntu.OneConf'
+Successfully activated service 'com.ubuntu.OneConf'
+WARNING:oneconf.hosts:Error in loading other_hosts file: [Errno 2] No such file or directory: '/home/hhb/.cache/oneconf/eb3c1a4ae182f2ea6dd5b3205dd75878/other_hosts'
+Activating service name='com.ubuntu.sso'
+Successfully activated service 'com.ubuntu.sso'

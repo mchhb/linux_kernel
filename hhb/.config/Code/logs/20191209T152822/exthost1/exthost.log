@@ -1,0 +1,90 @@
+[2019-12-09 15:28:28.438] [exthost] [info] extension host started
+[2019-12-09 15:28:28.616] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2019-12-09 15:28:28.618] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-12-09 15:28:28.642] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2019-12-09 15:28:28.643] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-12-09 15:28:28.721] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2019-12-09 15:28:28.725] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2019-12-09 15:28:28.885] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2019-12-09 15:28:28.896] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-12-09 15:28:28.945] [exthost] [info] ExtensionService#_doActivateExtension 2gua.rainbow-brackets {"startup":true,"extensionId":{"value":"2gua.rainbow-brackets","_lower":"2gua.rainbow-brackets"},"activationEvent":"*"}
+[2019-12-09 15:28:28.947] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/hhb/.vscode/extensions/2gua.rainbow-brackets-0.0.6/out/src/extension
+[2019-12-09 15:28:28.958] [exthost] [info] ExtensionService#_doActivateExtension bukas.GBKtoUTF8 {"startup":true,"extensionId":{"value":"bukas.GBKtoUTF8","_lower":"bukas.gbktoutf8"},"activationEvent":"*"}
+[2019-12-09 15:28:28.959] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/hhb/.vscode/extensions/bukas.gbktoutf8-0.0.2/out/src/extension
+[2019-12-09 15:28:28.998] [exthost] [info] ExtensionService#_doActivateExtension in4margaret.compareit {"startup":true,"extensionId":{"value":"in4margaret.compareit","_lower":"in4margaret.compareit"},"activationEvent":"*"}
+[2019-12-09 15:28:29.012] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/hhb/.vscode/extensions/in4margaret.compareit-0.0.2/out/extension
+[2019-12-09 15:28:29.279] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"extensionId":{"value":"vscode-icons-team.vscode-icons","_lower":"vscode-icons-team.vscode-icons"},"activationEvent":"*"}
+[2019-12-09 15:28:29.279] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/hhb/.vscode/extensions/vscode-icons-team.vscode-icons-9.6.0/dist/src/vscode-icons.bundle.js
+[2019-12-09 15:28:29.446] [exthost] [info] eager extensions activated
+[2019-12-09 15:30:47.251] [exthost] [info] extension host started
+[2019-12-09 15:30:47.376] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2019-12-09 15:30:47.384] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-12-09 15:30:47.392] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2019-12-09 15:30:47.396] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-12-09 15:30:47.457] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2019-12-09 15:30:47.459] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2019-12-09 15:30:47.513] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2019-12-09 15:30:47.524] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-12-09 15:30:47.532] [exthost] [info] ExtensionService#_doActivateExtension 2gua.rainbow-brackets {"startup":true,"extensionId":{"value":"2gua.rainbow-brackets","_lower":"2gua.rainbow-brackets"},"activationEvent":"*"}
+[2019-12-09 15:30:47.535] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/hhb/.vscode/extensions/2gua.rainbow-brackets-0.0.6/out/src/extension
+[2019-12-09 15:30:47.536] [exthost] [info] ExtensionService#_doActivateExtension bukas.GBKtoUTF8 {"startup":true,"extensionId":{"value":"bukas.GBKtoUTF8","_lower":"bukas.gbktoutf8"},"activationEvent":"*"}
+[2019-12-09 15:30:47.537] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/hhb/.vscode/extensions/bukas.gbktoutf8-0.0.2/out/src/extension
+[2019-12-09 15:30:47.563] [exthost] [info] ExtensionService#_doActivateExtension in4margaret.compareit {"startup":true,"extensionId":{"value":"in4margaret.compareit","_lower":"in4margaret.compareit"},"activationEvent":"*"}
+[2019-12-09 15:30:47.563] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/hhb/.vscode/extensions/in4margaret.compareit-0.0.2/out/extension
+[2019-12-09 15:30:47.621] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"extensionId":{"value":"vscode-icons-team.vscode-icons","_lower":"vscode-icons-team.vscode-icons"},"activationEvent":"*"}
+[2019-12-09 15:30:47.623] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/hhb/.vscode/extensions/vscode-icons-team.vscode-icons-9.6.0/dist/src/vscode-icons.bundle.js
+[2019-12-09 15:30:47.731] [exthost] [info] eager extensions activated
+[2019-12-09 15:32:31.065] [exthost] [info] ExtensionService#_doActivateExtension ajshort.include-autocomplete {"startup":false,"extensionId":{"value":"ajshort.include-autocomplete","_lower":"ajshort.include-autocomplete"},"activationEvent":"onLanguage:c"}
+[2019-12-09 15:32:31.066] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/hhb/.vscode/extensions/ajshort.include-autocomplete-0.0.4/out/src/extension
+[2019-12-09 15:32:31.072] [exthost] [info] ExtensionService#_doActivateExtension jbenden.c-cpp-flylint {"startup":false,"extensionId":{"value":"jbenden.c-cpp-flylint","_lower":"jbenden.c-cpp-flylint"},"activationEvent":"onLanguage:c"}
+[2019-12-09 15:32:31.072] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/hhb/.vscode/extensions/jbenden.c-cpp-flylint-1.2.4/out/extension
+[2019-12-09 15:32:31.810] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":false,"extensionId":{"value":"ms-vscode.cpptools","_lower":"ms-vscode.cpptools"},"activationEvent":"onLanguage:c"}
+[2019-12-09 15:32:31.831] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/hhb/.vscode/extensions/ms-vscode.cpptools-0.26.2/dist/main
+[2019-12-09 15:32:54.352] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2019-12-09 15:32:54.353] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2019-12-09 15:32:54.416] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2019-12-09 15:32:54.420] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-12-09 15:32:54.468] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2019-12-09 15:32:54.469] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-12-09 15:32:57.373] [exthost] [info] extension host started
+[2019-12-09 15:32:57.395] [exthost] [info] ExtensionService#_doActivateExtension ajshort.include-autocomplete {"startup":false,"extensionId":{"value":"ajshort.include-autocomplete","_lower":"ajshort.include-autocomplete"},"activationEvent":"onLanguage:c"}
+[2019-12-09 15:32:57.395] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/hhb/.vscode/extensions/ajshort.include-autocomplete-0.0.4/out/src/extension
+[2019-12-09 15:32:57.399] [exthost] [info] ExtensionService#_doActivateExtension jbenden.c-cpp-flylint {"startup":false,"extensionId":{"value":"jbenden.c-cpp-flylint","_lower":"jbenden.c-cpp-flylint"},"activationEvent":"onLanguage:c"}
+[2019-12-09 15:32:57.400] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/hhb/.vscode/extensions/jbenden.c-cpp-flylint-1.2.4/out/extension
+[2019-12-09 15:32:57.426] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":false,"extensionId":{"value":"ms-vscode.cpptools","_lower":"ms-vscode.cpptools"},"activationEvent":"onLanguage:c"}
+[2019-12-09 15:32:57.426] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/hhb/.vscode/extensions/ms-vscode.cpptools-0.26.2/dist/main
+[2019-12-09 15:32:57.463] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2019-12-09 15:32:57.463] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2019-12-09 15:32:57.466] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2019-12-09 15:32:57.466] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-12-09 15:32:57.489] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2019-12-09 15:32:57.489] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-12-09 15:32:57.534] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2019-12-09 15:32:57.535] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-12-09 15:32:57.537] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2019-12-09 15:32:57.537] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-12-09 15:32:57.548] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2019-12-09 15:32:57.548] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2019-12-09 15:32:57.564] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2019-12-09 15:32:57.565] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-12-09 15:32:57.567] [exthost] [info] ExtensionService#_doActivateExtension 2gua.rainbow-brackets {"startup":true,"extensionId":{"value":"2gua.rainbow-brackets","_lower":"2gua.rainbow-brackets"},"activationEvent":"*"}
+[2019-12-09 15:32:57.568] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/hhb/.vscode/extensions/2gua.rainbow-brackets-0.0.6/out/src/extension
+[2019-12-09 15:32:57.569] [exthost] [info] ExtensionService#_doActivateExtension bukas.GBKtoUTF8 {"startup":true,"extensionId":{"value":"bukas.GBKtoUTF8","_lower":"bukas.gbktoutf8"},"activationEvent":"*"}
+[2019-12-09 15:32:57.569] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/hhb/.vscode/extensions/bukas.gbktoutf8-0.0.2/out/src/extension
+[2019-12-09 15:32:57.575] [exthost] [info] ExtensionService#_doActivateExtension in4margaret.compareit {"startup":true,"extensionId":{"value":"in4margaret.compareit","_lower":"in4margaret.compareit"},"activationEvent":"*"}
+[2019-12-09 15:32:57.575] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/hhb/.vscode/extensions/in4margaret.compareit-0.0.2/out/extension
+[2019-12-09 15:32:57.593] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"extensionId":{"value":"vscode-icons-team.vscode-icons","_lower":"vscode-icons-team.vscode-icons"},"activationEvent":"*"}
+[2019-12-09 15:32:57.593] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/hhb/.vscode/extensions/vscode-icons-team.vscode-icons-9.6.0/dist/src/vscode-icons.bundle.js
+[2019-12-09 15:32:57.798] [exthost] [info] eager extensions activated
+[2019-12-09 15:33:25.717] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:json"}
+[2019-12-09 15:33:25.718] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2019-12-09 15:33:25.737] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"onLanguage:json"}
+[2019-12-09 15:33:25.746] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/npm/dist/main
+[2019-12-09 16:24:26.196] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2019-12-09 16:24:26.197] [exthost] [error] Error: DisposableStore is missing...
+	at T._convertCompletionItem (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:560:618)
+	at o.asPromise.then.e (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:560:248)
+[2019-12-09 16:24:34.232] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2019-12-09 16:24:34.233] [exthost] [error] Error: DisposableStore is missing...
+	at T._convertCompletionItem (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:560:618)
+	at o.asPromise.then.e (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:560:248)
